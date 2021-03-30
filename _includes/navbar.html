@@ -1,0 +1,26 @@
+{% capture nav_prefix %}/{{ page.lang }}/{% endcapture %}
+<nav class="navbar navbar-light bg-faded navbar-fixed-top">
+  <div class="container">
+    
+    <!-- Dropdown for small sreens -->
+    <button type="button"  class="navbar-toggler hidden-sm-up" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"></button>
+    <div class="dropdown-menu dropdown-menu-right" style='z-index: 1050;'>
+      <a class="dropdown-item" href="index.html">about</a>
+      <a class="dropdown-item" href="about.html">call for papers</a>
+      <a class="dropdown-item" href="team.html">schedule</a>
+      <a class="dropdown-item" href="team.html">organisers</a>	
+    </div>
+
+
+
+	<!-- Normal menu -->
+    <div class="collapse navbar-toggleable-xs">
+        <ul class="nav navbar-nav float-xs-right">
+        <li class="nav-item"><a class="nav-link" href="index.html">about</a></li>
+        <li class="nav-item"><a class="nav-link" href="about.html">call for papers</a></li>
+        <li class="nav-item"><a class="nav-link" href="team.html">schedule</a></li>
+        <li class="nav-item"><a class="nav-link" href="team.html">organisers</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>

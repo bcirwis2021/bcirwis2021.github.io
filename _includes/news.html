@@ -1,0 +1,40 @@
+{% assign entries = site.data.news.news | sort:"date" %}
+{% for t in entries reversed %}
+
+<!-- If there is no description, links are put in the title -->
+{% assign links_in_title = false %}
+{%unless t.description %}
+  {% assign links_in_title = true %}
+{% endunless %}
+
+<div class="row{% if t != entries.last %} mt-0{% endif %}">
+
+  <div class="col-md-3 text-md-right">
+    {{ t.date | date : "%d/%m/%Y" }}
+  </div>
+
+  <div class="col-md-7">
+    <h5>{{ t.title }}
+       <span style="font-size:1.0rem;">
+       {% if t.downloads and links_in_title %}
+       {% for download in t.downloads %}
+          | <a href="{{ download.href }}">{{ download.desc | escape }}</a>
+          {% if download != t.downloads.last %}, {% endif %}{% endfor %}
+       {% endif %}
+       </span>
+    </h5>
+    
+    <p><span class="text-muted">
+    {% if t.description %}
+       {{ t.description | escape }}
+    {% endif %}
+    
+    {% if t.downloads and links_in_title == false%} 
+       {% for download in t.downloads %}
+         | <a href="{{ download.href }}">{{ download.desc | escape }}</a>{% if download != t.downloads.last %} {% endif %}{% endfor %}
+    {% endif %}
+    </span></p>
+  </div>
+
+</div>
+{% endfor %}

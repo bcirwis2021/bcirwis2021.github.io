@@ -1,0 +1,38 @@
+- name: Alice Doe
+  status: principal
+  position: CNRS Research Director
+  homepage: "https://www.irit.fr/"
+  email: "cedric (dot) fevotte (at) irit (dot) fr"
+  googlescholar: "https://scholar.google.dk/citations?user=kAWEUq0AAAAJ&hl=en"
+  photo: alberto.jpg
+
+- name: Alice Doe
+  status: advisor
+  position: Professor (Toulouse INP)
+  email: "nicolas (dot) dobigeon (at) irit (dot) fr"
+  homepage: "https://www.kdd.org/kdd2020/"
+  googlescholar: "https://scholar.google.dk/citations?user=YPQFwDYAAAAJ&hl=en"
+  photo: alberto.jpg
+
+- name: Alice Doe
+  status: advisor
+  position: Assoc. Prof. (Toulouse INP)
+  email: "josehenrique (dot) demoraisgoulart (at) toulouse-inp (dot) fr"  
+  homepage: "https://www.kdd.org/kdd2020/"
+  googlescholar: "https://scholar.google.com.br/citations?user=IWj6KeoAAAAJ&hl=en"
+  photo: alberto.jpg
+    
+- name: Alice Doe
+  status : advisor
+  position: Assoc. Prof. (ISAE & Toulouse INP)
+  email: "thomas (dot) oberlin (at) isae-supaero (dot) fr"
+  homepage: "https://www.kdd.org/kdd2020/"
+  googlescholar: "https://scholar.google.dk/citations?user=iqotTk4AAAAJ&hl=en"
+  photo: alberto.jpg
+
+- name: Alice Doe
+  status: postdoc
+  position: Postdoc Researcher
+  googlescholar: "https://scholar.google.com/citations?user=YgcZQpgAAAAJ&hl=en"
+  email: "cassio (dot) fraga-dantas (at) irit (dot) fr"
+  photo: alberto.jpg

@@ -1,0 +1,77 @@
+# github uses safe = true, but safe = false allows using the jekyll-scholar plugin in local machine
+safe: false 
+encoding: utf-8
+
+# Plugins
+plugins: ['jekyll/scholar']
+
+# Build settings
+markdown: kramdown
+
+# Outputting
+exclude: [
+  'cibuild',
+  'Gemfile',
+  'Gemfile.lock',
+  'package.json',
+  'README.md',
+  'vendor']
+
+
+# Site settings
+scholar:
+  locale: en
+  style: _bibliography/mystyle.csl #chicago-fullnote-bibliography
+  sort_by: year
+  order: descending
+  bibliography_list_tag: ul
+
+  source: _bibliography
+  bibliography: factory_publis_full.bib
+  bibliography_template: bib # format of each bibliography line (layouts/filename.html)
+
+  #replace_strings: true
+  use_raw_bibtex_entry: true
+
+  # Use this to provide details by clicking a link in each article
+  #details_dir:    bibliography # output dir
+  #details_layout: bibtex.html # template to create html files for detail link
+  details_link:   ' Details'
+
+  #query: "@*"
+
+timezone: Europe/Berlin
+baseurl: '' # the subpath of your site, e.g. /blog/
+url: 'https://projectfactory.github.io' # the base hostname & protocol for your site
+title: 'Project FACTORY'
+author: ''
+languages: [ 'en', 'de' ]
+
+google_font_sans_serif: 'Source+Sans+Pro:300'
+
+default_header_img_dimensions: 'width="200" height="200"'
+default_thubmnail_img_dimensions: 'width="768" height="768"'
+default_member_img_dimensions: 'width="300" height="300"'
+
+defaults:
+  - scope:
+      path: ''
+    values:
+      lang: en
+      description: 'Website of the ERC project FACTORY'
+  - scope:
+      path: 'de'
+    values:
+      lang: de
+      description: 'Website of the ERC project FACTORY'
+  - scope:
+      path: 'en'
+    values:
+      lang: en
+
+# CSS Minification
+sass:
+  style: compressed
+
+
+

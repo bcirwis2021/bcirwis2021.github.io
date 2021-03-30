@@ -1,0 +1,15 @@
+{% assign header = site.data.header %}
+<header>
+  <div class="row flex-items-xs-center text-xs-center">
+    <div class="col-md-6 col-sm-8">
+    <!--<div class="col-md-4 col-sm-6">-->
+      <img class="rounded img-fluid" width="175" height="175" src="/img/{{ header.picture }}" alt="logo">
+
+    </div>
+    <div class="col-md-8">
+      <h1>{{ header.heading | escape }}</h1>
+      <p class="lead">{{ header.lead | escape }}</p>
+      <p class="text-xs-left">{{ header.about }}</p>
+    </div>
+  </div>
+</header>
