@@ -1,6 +1,6 @@
 ---
 layout: section
-title: about
+title: Call for Papers
 ---
 
 #### Project abstract
