@@ -59,13 +59,3 @@ layout: section
 </section>
 -->
 
-<!-- NEWS SECTION -->
-<!-- The content is taken from the data files -->
-
-<section id="news" class="container" style='padding-top:0rem; margin-top:-2rem;'>
-<div class="row text-xs-center">
-  <div class="col-xs">
-    <h1>news</h1>
-  </div>
-</div>
-</section>
