@@ -12,7 +12,7 @@ layout: section
 
 
 #### Call For Papers
-## Call For Papers: Bayesian causal inference for real world interactive systems
+### Bayesian causal inference for real world interactive systems
 
 ## BCIRWIS 2021: The first workshop on : Bayesian causal inference for real world interactive systems
 
