@@ -68,5 +68,4 @@ layout: section
     <h1>news</h1>
   </div>
 </div>
-{% include news.html %}
 </section>
