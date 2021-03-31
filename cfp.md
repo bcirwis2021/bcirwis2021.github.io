@@ -11,10 +11,10 @@ layout: section
 </section>
 
 
-#### Call For Papers
-### Bayesian causal inference for real world interactive systems
+# Call For Papers
+## BCIRWIS 2021: Bayesian causal inference for real world interactive systems
 
-## BCIRWIS 2021: The first workshop on : Bayesian causal inference for real world interactive systems
+## The first workshop on : Bayesian causal inference for real world interactive systems
 
 Increasingly we use machine learning to build interactive systems that learn from past actions and the reward obtained.  The theory suggests several possible approaches, such as contextual bandits, reinforcement learning, the do-calculus, or plain old Bayesian decision theory.  What are the most theoretical and practical approaches to doing causal inference for interactive systems?
 
