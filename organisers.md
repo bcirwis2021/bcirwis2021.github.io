@@ -21,4 +21,4 @@ Alberto Lumbreras, Criteo
 
 David Rohde, Criteo
 
-Yixin Wang, UCLA Berkley
+Yixin Wang, UC Berkley
