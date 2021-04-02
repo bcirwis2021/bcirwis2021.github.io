@@ -15,7 +15,7 @@ Nicolas Chopin, ENSAE
 
 Mike Gartrell, Criteo
 
-Dawen Liang, Netlix
+Dawen Liang, Netflix
 
 Alberto Lumbreras, Criteo
 
