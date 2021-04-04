@@ -11,14 +11,14 @@ layout: section
 </section>
 
 
-Nicolas Chopin, ENSAE
+[Nicolas Chopin](https://nchopin.github.io/), ENSAE
 
-Mike Gartrell, Criteo
+[Mike Gartrell](https://scholar.google.com/citations?user=NX6eiWYAAAAJ&hl=en), Criteo
 
-Dawen Liang, Netflix
+[Dawen Liang](https://dawenl.github.io/), Netflix
 
-Alberto Lumbreras, Criteo
+[Alberto Lumbreras](http://albertolumbreras.net/), Criteo
 
-David Rohde, Criteo
+[David Rohde](https://scholar.google.com/citations?hl=en&user=9SBYirYAAAAJ), Criteo
 
-Yixin Wang, UC Berkley
+[Yixin Wang](https://scholar.google.com/citations?user=gFLW9qcAAAAJ&hl=en), UC Berkley
