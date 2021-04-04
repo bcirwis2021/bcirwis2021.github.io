@@ -12,4 +12,14 @@ layout: section
 
 #### Invited Speakers and Panellists
 
-Phillip Dawid, Finnian Lattimore, James McInerney, Cheng Zhang, Larry Wasserman, Ralf Herbrich
+[Phillip Dawid](http://www.statslab.cam.ac.uk/~apd/)
+
+[Finnian Lattimore](https://scholar.google.com/citations?user=XlzIPUkAAAAJ&hl=en)
+
+[James McInerney](https://jamesmc.com/about-me)
+
+[Cheng Zhang](https://cheng-zhang.org)
+
+[Larry Wasserman](https://www.stat.cmu.edu/~larry/)
+
+[Ralf Herbrich](https://scholar.google.com.au/citations?user=RuvHkikAAAAJ&hl=en)
