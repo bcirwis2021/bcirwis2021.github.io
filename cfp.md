@@ -29,7 +29,7 @@ We invite papers on any aspect of Bayesian inference for real world interactive 
 
 We are particularly interested in case studies of applying machine learning methods to interactive systems that _did_ or _did_not_ use Bayesian or likelihood based methods with a discussion about why this choice was made in terms of practical or theoretical arguments.
 
-Papers should be a three (3) page extended abstract, and will be selected for contributed talks or for posters.  Papers should be formated using the [ACM Proceedings Format](https://www.acm.org/publications/proceedings-template)
+Papers should be a three (3) page extended abstract, and will be selected for contributed talks or for posters.  Papers should be formated using the [ACM Proceedings Format](https://www.acm.org/publications/proceedings-template).
 
 If the research has previously appeared in a journal, workshop, or conference (including KDD 2021), the workshop submission should extend that previous work. Parallel submissions (such as to other conferences) are permitted.
 
