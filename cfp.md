@@ -19,13 +19,15 @@ Increasingly we use machine learning to build interactive systems that learn fro
 
 We invite papers on any aspect of Bayesian inference for real world interactive systems including:
 
-     * Offline evaluation of recommender and interactive systems.
-     * Bayesian methods in a production environment.
-     * Comparison of Bayesian, off-policy and other heuristic approaches for offline metrics.
-     * Probabilistic approaches applied to contextual bandits and reinforcement learning approaches.
-     * Probabilistic approaches to incrementality and attribution.
-     * Non-Bayesian approaches and trade-offs with Bayesian approaches.
-     * Contextual bandit algorithms.
+* Offline evaluation of recommender and interactive systems.
+* Bayesian methods in a production environment.
+* Comparison of Bayesian, off-policy and other heuristic approaches for offline metrics.
+* Probabilistic approaches applied to contextual bandits and reinforcement learning approaches.
+* Probabilistic approaches to incrementality and attribution.
+* Non-Bayesian approaches and trade-offs with Bayesian approaches.
+* Contextual bandit algorithms.
+
+We are particularly interested in case studies of applying machine learning methods to interactive systems that _did_ or _did_not_ use Bayesian or likelihood based methods with a discussion about why this choice was made in terms of practical or theoretical arguments.
 
 Papers should be a three (3) page extended abstract, and will be selected for contributed talks or for posters.  Papers should be formated using the [ACM Proceedings Format](https://www.acm.org/publications/proceedings-template)
 
