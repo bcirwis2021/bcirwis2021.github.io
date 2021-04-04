@@ -27,7 +27,7 @@ We invite papers on any aspect of Bayesian inference for real world interactive 
      * Non-Bayesian approaches and trade-offs with Bayesian approaches.
      * Contextual bandit algorithms.
 
-Papers should be a three (3) page extended abstract, and will be selected for contributed talks or for posters.
+Papers should be a three (3) page extended abstract, and will be selected for contributed talks or for posters.  Papers should be formated using the [ACM Proceedings Format](https://www.acm.org/publications/proceedings-template)
 
 If the research has previously appeared in a journal, workshop, or conference (including KDD 2021), the workshop submission should extend that previous work. Parallel submissions (such as to other conferences) are permitted.
 
