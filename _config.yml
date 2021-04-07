@@ -58,12 +58,12 @@ defaults:
       path: ''
     values:
       lang: en
-      description: 'Website of the ERC project FACTORY'
+      description: 'Bayesian Causal Inference for Real World Interactive Systems'
   - scope:
       path: 'de'
     values:
       lang: de
-      description: 'Website of the ERC project FACTORY'
+      description: ''
   - scope:
       path: 'en'
     values:
