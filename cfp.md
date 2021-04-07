@@ -26,10 +26,10 @@ Increasingly we use machine learning to build interactive systems that learn fro
 * Non-Bayesian approaches and trade-offs with Bayesian/Likelihood approaches.
 * Bayesian methods in a production environment.
 
-Papers should be a three (3) page extended abstract, and will be selected for contributed talks or for posters.  Papers should be formated using the [ACM Proceedings Format](https://www.acm.org/publications/proceedings-template).
+Papers should be a three (3) page extended abstract, excluding references and appendices, and will be selected for contributed talks or for posters.  Papers should be in PDF format and use the anonymized [ACM Proceedings Template](https://www.acm.org/publications/proceedings-template).  Please submit your papers to the [CMT web site](https://cmt3.research.microsoft.com/BCIRWIS2021).
 
 If the research has previously appeared in a journal, workshop, or conference (including KDD 2021), the workshop submission should extend that previous work. Parallel submissions (such as to other conferences) are permitted.
 
-Paper Submission Deadline: May 10th, 2021
+Paper Submission Deadline: May 10th, 2021, 11:59 PM Anywhere on Earth
 Paper Notification: June 10th, 2021
 
