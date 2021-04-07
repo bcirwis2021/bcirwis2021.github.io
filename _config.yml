@@ -43,7 +43,7 @@ scholar:
 timezone: Europe/Berlin
 baseurl: '' # the subpath of your site, e.g. /blog/
 url: 'https://bcirwis2021.github.io' # the base hostname & protocol for your site
-title: 'Project FACTORY'
+title: 'Bayesian Causal Inference for Real World Interactive Systems'
 author: ''
 languages: [ 'en', 'de' ]
 
