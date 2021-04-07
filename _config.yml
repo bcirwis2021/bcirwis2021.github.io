@@ -42,7 +42,7 @@ scholar:
 
 timezone: Europe/Berlin
 baseurl: '' # the subpath of your site, e.g. /blog/
-url: 'https://projectfactory.github.io' # the base hostname & protocol for your site
+url: 'https://bcirwis2021.github.io' # the base hostname & protocol for your site
 title: 'Project FACTORY'
 author: ''
 languages: [ 'en', 'de' ]
