@@ -30,7 +30,7 @@ Papers should be a three (3) page extended abstract, excluding references and ap
 
 If the research has previously appeared in a journal, workshop, or conference (including KDD 2021), the workshop submission should extend that previous work. Parallel submissions (such as to other conferences) are permitted.
 
-Paper Submission Deadline: May 10th, 2021, 11:59 PM Anywhere on Earth
+Paper Submission Deadline: May 20th, 2021, 11:59 PM Anywhere on Earth
 
 Paper Notification: June 10th, 2021
 
