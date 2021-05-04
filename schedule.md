@@ -23,3 +23,5 @@ layout: section
 [Larry Wasserman](https://www.stat.cmu.edu/~larry/), CMU
 
 [Ralf Herbrich](https://scholar.google.com.au/citations?user=RuvHkikAAAAJ&hl=en), Zalando
+
+[John Langford](https://www.microsoft.com/en-us/research/people/jcl/), Microsoft
