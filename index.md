@@ -20,7 +20,7 @@ layout: section
         <div class="col-md-8">
 			<h1  style='padding-top:0rem;'>Bayesian Causal Inference</h1>
 			<p class="lead" style='font-weight: bold;'>for Real World Interactive Systems <br> </p>
-		<p class="lead" style='font-weight: bold;'>a workshop at <a href='https://kdd.org/kdd2021/'>KDD 2021</a> <br> </p>
+		<p class="lead" style='font-weight: bold;'>a workshop at <a href='https://kdd.org/kdd2021/'>KDD 2021</a> <br> </p> 14-15 August 2021
 
 			<p class="text-xs-left">
 			Machine learning has allowed many systems that we interact with to improve performance and personalize.  An important source of information in these systems is to learn from historical actions and their success or failure in applications - which is a type of causal inference.  The Bayesian approach is often depicted as being a principled means to combine information from different sources, however in causal production settings it is often not applied.  In this workshop we consider if this is because the Bayesian paradigm is simply ill-suited to this causal setting.  Does causality simply render the arguments in favor of the Bayesian paradigm irrelevant?  Alternatively, are Bayesian methods rarely applied simply because of the complexity of implementation, and is it just a matter of time until we see them used successfully in production settings and improving upon the state of the art? We do not intend to definitively answer these questions in this workshop, but hope to provide a platform for both theorists and practitioners to exchange ideas and empirical findings to advance our understanding.   
