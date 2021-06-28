@@ -4,7 +4,7 @@ Decomposition-Coordination Methods for Finite Horizon Bandit Problems Michel DE 
 
 Smooth Sequential Optimisation with Delayed Feedback Srivas Chennu (Apple)*; Jamie Martin (Apple); Puli Liyanagama (Apple); Phil Mohr (Apple)
 
-Variational Causal Networks: Approximate Bayesian Inference over Causal Structures Yashas Annadani (ETH Zurich)*; Jonas Rothfuss (ETH); Alexandre Lacoste (Element AI); Nino Scherrer (ETH Zürich); Anirudh Goyal (University of Montreal); Yoshua Bengio (Mila); Stefan Bauer (MPI IS)
+(Variational Causal Networks: Approximate Bayesian Inference over Causal Structures)[https://bcirwis2021.github.io/Variational.pdf] Yashas Annadani (ETH Zurich)*; Jonas Rothfuss (ETH); Alexandre Lacoste (Element AI); Nino Scherrer (ETH Zürich); Anirudh Goyal (University of Montreal); Yoshua Bengio (Mila); Stefan Bauer (MPI IS)
 
 Combining Reward and Rank Signals for Slate Recommendation Imad Aouali (Criteo AI Lab)*; Sergey Ivanov (Criteo); Mike Gartrell (Criteo); David Rohde (Criteo); Flavian Vasile (Criteo); Victor Zaytsev (Criteo); Diego Legrand (Criteo)
 
