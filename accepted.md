@@ -4,7 +4,7 @@
 
 [Decomposition-Coordination Methods for Finite Horizon Bandit Problems](https://bcirwis2021.github.io/Decomp.pdf) Michel DE LARA (Ecole des Ponts ParisTech); Benjamin Heymann (Criteo)*; Jean-Philippe CHANCELIER (Ecole des Ponts ParisTech)
 
-[Smooth Sequential Optimisation with Delayed Feedback](https://bcirwis2021.github.io/Smooth.pdf) Srivas Chennu (Apple)*; Jamie Martin (Apple); Puli Liyanagama (Apple); Phil Mohr (Apple)
+[Smooth Sequential Optimisation with Delayed Feedback](https://bcirwis2021.github.io/Smooth.pdf) Srivas Chennu (Apple)*; Jamie Martin (Apple); Puli Liyanagama (Apple); Phil Mohr (Apple) [ArXiv Version (longer)](https://arxiv.org/abs/2106.11294)
 
 [Variational Causal Networks: Approximate Bayesian Inference over Causal Structures](https://bcirwis2021.github.io/Variational.pdf) Yashas Annadani (ETH Zurich)*; Jonas Rothfuss (ETH); Alexandre Lacoste (Element AI); Nino Scherrer (ETH Zürich); Anirudh Goyal (University of Montreal); Yoshua Bengio (Mila); Stefan Bauer (MPI IS)
 
