@@ -3,16 +3,13 @@ layout: section
 ---
 
 <section id="logo" class="container" style='padding-top:0rem; margin-top:-0rem;'>
-   
    <div class='row col-md-3 col-xs-12' style='margin-top:-3rem;' >
       <img  height="150"  src="/img/causalbayes.jpg" alt="logo">
    </div>
-
 </section>
 
-
-
 # Call For Papers
+
 ## BCIRWIS 2021: Bayesian causal inference for real world interactive systems - ([KDD 2021](https://kdd.org/kdd2021/) Workshop) 14-15 August 2021
 
 Increasingly we use machine learning to build interactive systems that learn from past actions and the reward obtained.  Theory suggests several possible approaches, such as contextual bandits, reinforcement learning, the do-calculus, or plain old Bayesian decision theory.  What are the most theoretically appropriate and practical approaches to doing causal inference for interactive systems?  
