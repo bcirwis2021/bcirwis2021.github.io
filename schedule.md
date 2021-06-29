@@ -11,7 +11,7 @@ title: Invited Speakers and Panellists
 
 </section>
 
-#### Invited Speakers and Panellists
+# Invited Speakers and Panellists
 
 [Phillip Dawid](http://www.statslab.cam.ac.uk/~apd/), Cambridge
 
