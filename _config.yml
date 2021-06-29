@@ -46,6 +46,7 @@ url: 'https://bcirwis2021.github.io' # the base hostname & protocol for your sit
 title: 'Bayesian Causal Inference for Real World Interactive Systems'
 author: ''
 languages: [ 'en', 'de' ]
+logo: "img/causal_logo.png"
 
 google_font_sans_serif: 'Source+Sans+Pro:300'
 

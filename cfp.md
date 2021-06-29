@@ -2,11 +2,8 @@
 layout: section
 ---
 
-<section id="logo" class="container" style='padding-top:0rem; margin-top:-0rem;'>
-   <div class='row col-md-3 col-xs-12' style='margin-top:-3rem;' >
-      <img  height="150"  src="/img/causalbayes.jpg" alt="logo">
-   </div>
-</section>
+<img height="50" src="{{ site.logo }}" class="rounded mx-auto d-block" alt="logo">
+
 
 # Call For Papers
 
