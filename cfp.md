@@ -11,7 +11,7 @@ layout: section
 # Call For Papers
 
 ## BCIRWIS 2021: Bayesian causal inference for real world interactive systems
-<div class="lead">KDD 2021<a href='https://kdd.org/kdd2021/'> workshop</a></div>
+<div class="lead"><a href='https://kdd.org/kdd2021/'>KDD 2021</a> workshop</div>
 <div class="lead">14-15 August 2021</div>
 <br>
 Increasingly we use machine learning to build interactive systems that learn from past actions and the reward obtained.  Theory suggests several possible approaches, such as contextual bandits, reinforcement learning, the do-calculus, or plain old Bayesian decision theory.  What are the most theoretically appropriate and practical approaches to doing causal inference for interactive systems?  
