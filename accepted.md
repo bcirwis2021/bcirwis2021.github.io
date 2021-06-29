@@ -1,6 +1,5 @@
 ---
 layout: section
-title:
 ---
 
 <section id="logo" class="container" style='padding-top:0rem; margin-top:-0rem;'>

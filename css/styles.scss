@@ -56,7 +56,30 @@ p {
 
 h1 {
   padding-top: 2rem;
-  padding-bottom: 5rem;
+  padding-bottom: 1rem;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+  font-size: 180%;
+  font-weight: bold;
+}
+
+h3 {
+  text-align: center;
+  font-size: 150%;
+  font-weight: bold;
+}
+
+.subtitle {
+  margin-top: -1rem;
+  text-align: center;
+  font-size: 140%;
+  margin-bottom: 1rem;
+}
+
+.lead {
   text-align: center;
 }
 
