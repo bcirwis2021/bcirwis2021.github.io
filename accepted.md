@@ -1,4 +1,7 @@
-# Accepted Papers
+---
+layout: section
+title: Accepted Papers
+---
 
 [Evaluating Off-Policy Evaluation: Sensitivity and Robustness](https://bcirwis2021.github.io/Evaluating.pdf) Yuta Saito (Hanjuku-kaso, Co., Ltd.)*; Takuma Udagawa (Sony Corporation); Haruka Kiyohara (Tokyo Institute of Technology); Kazuki Mogi (Stanford University); Yusuke Narita (Yale University); Kei Tateno (Sony Corporation)
 
