@@ -3,6 +3,12 @@ layout: section
 title:
 ---
 
+<section id="logo" class="container" style='padding-top:0rem; margin-top:-0rem;'>
+   <div class='row col-md-3 col-xs-12' style='margin-top:-3rem;' >
+      <img  height="150"  src="/img/causalbayes.jpg" alt="logo">
+   </div>
+</section>
+
 # Accepted Papers
 
 [Evaluating Off-Policy Evaluation: Sensitivity and Robustness](https://bcirwis2021.github.io/Evaluating.pdf) Yuta Saito (Hanjuku-kaso, Co., Ltd.)*; Takuma Udagawa (Sony Corporation); Haruka Kiyohara (Tokyo Institute of Technology); Kazuki Mogi (Stanford University); Yusuke Narita (Yale University); Kei Tateno (Sony Corporation)
