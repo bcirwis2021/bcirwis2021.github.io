@@ -1,5 +1,6 @@
 ---
 layout: section
+title:
 ---
 
 # Accepted Papers
