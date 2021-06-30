@@ -2,7 +2,7 @@
 layout: section
 ---
 
-<img height="50" src="{{ site.logo }}" class="rounded mx-auto d-block" alt="logo">
+<img height="80" src="{{ site.logo }}" class="rounded mx-auto d-block" alt="logo">
 
 
 # Invited Speakers and Panellists
