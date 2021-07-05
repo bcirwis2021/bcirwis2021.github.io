@@ -17,7 +17,7 @@ layout: section
 | Applied Panel | 6.45-7.30|8.45|24.45|23.45|15.45|18.45|
 | Contributed talk 1|7.30-7.50|9.30|1.30|24.30|16.30|19.30|
 | Contributed talk 2|7.50-8.15|9.50|1.50|24.50|16.50|19.50|
-| [James McInerney](https://jamesmc.com/about-me)|8.15-9.00|10.15|2.15|1.15|17.15|20.15|
+| [James McInerney](https://jamesmc.com/about-me)|8.10-9.00|10.10|2.10|1.10|17.10|20.10|
 
 # Invited Speakers and Panellists
 
