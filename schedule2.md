@@ -15,7 +15,8 @@ layout: section
 | [Cheng Zhang](https://cheng-zhang.org) | 4.00-4.45 | 5.00   |  22.00   |  21.00   |  13.00   |16.00|
 | Poster Session | 6.00-6.45 |8.00|24.00|23.00|15.00|18.00|
 | Applied Panel | 6.45-7.30|8.45|24.45|23.45|15.45|18.45|
-| Contributed talks|7.30-8.15|9.30|1.30|24.30|16.30|19.30|
+| Contributed talk 1|7.30-7.50|9.30|1.30|24.30|16.30|19.30|
+| Contributed talk 2|7.50-8.15|9.50|1.50|24.50|16.50|19.50|
 | [James McInerney](https://jamesmc.com/about-me)|8.15-9.00|10.15|2.15|1.15|17.15|20.15|
 
 # Invited Speakers and Panellists
