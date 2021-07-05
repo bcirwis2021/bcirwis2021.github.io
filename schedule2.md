@@ -10,6 +10,7 @@ layout: section
 |       |Singapore     |Sydney         |          Paris|        London|  San Francisco|   Pittsburgh |
 | [Larry Wasserman](https://www.stat.cmu.edu/~larry/)      |   1.00 -1.45 |           3.00|          19.00|         18.00|          10.00|         13.00|
 | [Phillip Dawid](http://www.statslab.cam.ac.uk/~apd/)|1.45-2.30|3.45|19.45|18.45|10.45|13.45|
+| [Finnian Lattimore](https://scholar.google.com/citations?user=XlzIPUkAAAAJ&hl=en) | 2.30-3.15|4.30|20.30|19.30|11.30|14.30|
 
 # Invited Speakers and Panellists
 
