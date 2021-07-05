@@ -5,6 +5,18 @@ layout: section
 <img height="80" src="{{ site.logo }}" class="rounded mx-auto d-block" alt="logo">
 
 
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+|Speaker|Monday 16 Aug | Monday 16 Aug | Sunday 15 Aug | Sunday 15 Aug| Sunday 15 Aug | Sunday 15 Aug|
+| |Singapore|Sydney|Paris|London|San Francisco|Pittsburgh
+| |1.00 -1.45|3.00|19.00|18.00|10.00|13.00|
+
+
 # Invited Speakers and Panellists
 
 [Phillip Dawid](http://www.statslab.cam.ac.uk/~apd/), Cambridge
