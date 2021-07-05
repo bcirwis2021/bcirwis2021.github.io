@@ -9,8 +9,8 @@ layout: section
 |-------|--------------|---------------|---------------|--------------|---------------|--------------|
 |       |Singapore     |Sydney         |          Paris|        London|  San Francisco|   Pittsburgh |
 | [Larry Wasserman](https://www.stat.cmu.edu/~larry/)         1.00 -1.45 |           3.00|          19.00|         18.00|          10.00|         13.00|
-| [Phillip Dawid](http://www.statslab.cam.ac.uk/~apd/)||1.45-2.30|3.45|19.45|18.45|10.45|13.45|
-| [Finnian Lattimore](https://scholar.google.com/citations?user=XlzIPUkAAAAJ&hl=en) || 2.30-3.15|4.30|20.30|19.30|11.30|14.30|
+| [Phillip Dawid](http://www.statslab.cam.ac.uk/~apd/)|1.45-2.30|3.45|19.45|18.45|10.45|13.45|
+| [Finnian Lattimore](https://scholar.google.com/citations?user=XlzIPUkAAAAJ&hl=en) | 2.30-3.15|4.30|20.30|19.30|11.30|14.30|
 | Theory Panel                           | 3.15-4.00|5.15    |  21.15   |  20.15   |  12.15   |15.15|
 | [Cheng Zhang](https://cheng-zhang.org) | 4.00-4.45 | 5.00   |  22.00   |  21.00   |  13.00   |16.00|
 | Poster Session | 6.00-6.45 |8.00|24.00|23.00|15.00|18.00|
