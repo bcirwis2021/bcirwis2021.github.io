@@ -13,8 +13,9 @@ layout: section
 | zebra stripes | are neat      |    $1 |
 
 |Speaker|Monday 16 Aug | Monday 16 Aug | Sunday 15 Aug | Sunday 15 Aug| Sunday 15 Aug | Sunday 15 Aug|
-| |Singapore|Sydney|Paris|London|San Francisco|Pittsburgh
-| |1.00 -1.45|3.00|19.00|18.00|10.00|13.00|
+|-------|--------------|---------------|---------------|--------------|---------------|--------------|
+|       |Singapore     |Sydney         |          Paris|        London|  San Francisco|   Pittsburgh |
+|       |   1.00 -1.45 |           3.00|          19.00|         18.00|          10.00|         13.00|
 
 
 # Invited Speakers and Panellists
