@@ -38,8 +38,8 @@ layout: section
 
 
 
-# Theory
+# Theory Panel
 
 
-# Bayes
+# Bayes in Production Panel
 
