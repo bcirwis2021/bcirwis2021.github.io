@@ -35,3 +35,10 @@ layout: section
 
 [John Langford](https://www.microsoft.com/en-us/research/people/jcl/), Microsoft
 
+
+
+[Theory Panel](#Theory)
+
+# Theory
+
+
