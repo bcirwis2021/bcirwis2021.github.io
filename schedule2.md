@@ -14,7 +14,7 @@ layout: section
 | [Finnian Lattimore](https://scholar.google.com/citations?user=XlzIPUkAAAAJ&hl=en) | 2.30-3.15|4.30|20.30|19.30|11.30|14.30|
 | [Theory Panel](#Theory-Panel) | 3.15-4.00|5.15    |  21.15   |  20.15   |  12.15   |15.15|
 | [Cheng Zhang](https://cheng-zhang.org) | 4.00-4.45 | 6.00   |  22.00   |  21.00   |  13.00   |16.00|
-| Break 4.46 - 6.00 | | | | | |
+| Break | 4.46 - 6.00 | | | | |
 | Poster Session | 6.00-6.45 |8.00|24.00|23.00|15.00|18.00|
 | [Bayes in Production Panel](#Bayes-in-Production-Panel) | 6.45-7.30|8.45|00.45|23.45|15.45|18.45|
 | Contributed talk: [Variational Causal Networks: Approximate Bayesian Inference over Causal Structures](https://bcirwis2021.github.io/Variational.pdf) |7.30-7.50|9.30|1.30|00.30|16.30|19.30|
