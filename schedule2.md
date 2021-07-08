@@ -37,10 +37,11 @@ layout: section
 
 
 
-[Theory Panel](#Theory Panel)
+[Theory Panel](#Theory)
 
-# Theory Panel
+# Theory
 
-[Bayes in Production Panel](#Bayes in Production Panel)
+[Bayes in Production Panel](#Bayes)
 
-# Bayes in Production Panel
+# Bayes
+
