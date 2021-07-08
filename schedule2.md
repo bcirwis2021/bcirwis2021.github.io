@@ -19,27 +19,24 @@ layout: section
 | Contributed talk: [Smooth Sequential Optimisation with Delayed Feedback](https://bcirwis2021.github.io/Smooth.pdf) |7.50-8.10|9.50|1.50|24.50|16.50|19.50|
 | [James McInerney](https://jamesmc.com/about-me)|8.10-8.55|10.10|2.10|1.10|17.10|20.10|
 
-# Invited Speakers and Panellists
-
-[Phillip Dawid](http://www.statslab.cam.ac.uk/~apd/), Cambridge
-
-[Finnian Lattimore](https://scholar.google.com/citations?user=XlzIPUkAAAAJ&hl=en), The Gradient Institute
-
-[James McInerney](https://jamesmc.com/about-me), Netflix
-
-[Cheng Zhang](https://cheng-zhang.org), Microsoft
-
-[Larry Wasserman](https://www.stat.cmu.edu/~larry/), CMU
-
-[Ralf Herbrich](https://scholar.google.com.au/citations?user=RuvHkikAAAAJ&hl=en), Zalando
-
-[John Langford](https://www.microsoft.com/en-us/research/people/jcl/), Microsoft
-
-
 
 
 # Theory Panel
 
+[Phillip Dawid](http://www.statslab.cam.ac.uk/~apd/), Cambridge
+
+[Larry Wasserman](https://www.stat.cmu.edu/~larry/), CMU
+
+[John Langford](https://www.microsoft.com/en-us/research/people/jcl/), Microsoft
+
+[Finnian Lattimore](https://scholar.google.com/citations?user=XlzIPUkAAAAJ&hl=en), The Gradient Institute
+
+
 
 # Bayes in Production Panel
 
+[Ralf Herbrich](https://scholar.google.com.au/citations?user=RuvHkikAAAAJ&hl=en), Zalando
+
+[James McInerney](https://jamesmc.com/about-me), Netflix
+
+[Cheng Zhang](https://cheng-zhang.org), Microsoft
