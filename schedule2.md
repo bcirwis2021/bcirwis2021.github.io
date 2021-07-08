@@ -23,7 +23,7 @@ layout: section
 
 # Theory Panel
 
-Does causality mean we need to go Beyond Bayesian decision theory?
+Does causality mean we need to go beyond Bayesian decision theory?
 
 [Phillip Dawid](http://www.statslab.cam.ac.uk/~apd/), Cambridge
 
