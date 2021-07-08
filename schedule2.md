@@ -23,6 +23,8 @@ layout: section
 
 # Theory Panel
 
+Does causality mean we need to go Beyond Bayesian decision theory?
+
 [Phillip Dawid](http://www.statslab.cam.ac.uk/~apd/), Cambridge
 
 [Larry Wasserman](https://www.stat.cmu.edu/~larry/), CMU
@@ -35,8 +37,12 @@ layout: section
 
 # Bayes in Production Panel
 
+Is Bayesian inference suitable in production?
+
 [Ralf Herbrich](https://scholar.google.com.au/citations?user=RuvHkikAAAAJ&hl=en), Zalando
 
 [James McInerney](https://jamesmc.com/about-me), Netflix
 
 [Cheng Zhang](https://cheng-zhang.org), Microsoft
+
+[John Langford](https://www.microsoft.com/en-us/research/people/jcl/), Microsoft
