@@ -53,3 +53,5 @@ Is Bayesian inference suitable in production?
 # Larry Wasserman
 [Larry Wasserman](https://www.stat.cmu.edu/~larry/) is UPMC University Professor of Statistics and Data Science at Carnegie Mellon University. He also has an appointment in the Machine Learning Department in the School of Computer Science.
 
+![](https://bcirwis2021.github.io/Larry.jpeg)
+
