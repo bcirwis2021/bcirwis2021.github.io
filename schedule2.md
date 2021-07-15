@@ -52,7 +52,7 @@ Is Bayesian inference suitable in production?
 
 # Talk Abstracts
 ## Problems With Bayesian Causal Inference 
-
+### Larry Wasserman
 In this talk I'll review the difficulties that arise when using Bayesian inference methods for causal inference. The causal effect
 is a functional of the distribution which can be estimated using standard semiparametric techniques.  This yields valid confidence intervals and estimates that converge at a root n rate. In contrast, Robins and Ritov showed that the Bayes estimate is inconsistent. The problem is that the Bayes estimator is biased. Furthermore, the Bayesian credible interval will have very low coverage.
 
