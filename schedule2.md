@@ -9,7 +9,7 @@ layout: section
 |-------|--------------|---------------|---------------|--------------|---------------|--------------|
 |       |Singapore     |Sydney         |          Paris|        London|  San Francisco|   Pittsburgh |
 | Welcome | 0.30-1.00 | 2.30 | 18.30 | 17.30 | 9.30 | 12.30 |
-| [Larry Wasserman](##Larry-Wasserman) - [Problems With Bayesian Causal Inference](##Problems-With-Bayesian-Causal-Inference)  |       1.00 -1.45 |           3.00|          19.00|         18.00|          10.00|         13.00|
+| [Larry Wasserman](#Larry-Wasserman) - [Problems With Bayesian Causal Inference](#Problems-With-Bayesian-Causal-Inference)  |       1.00 -1.45 |           3.00|          19.00|         18.00|          10.00|         13.00|
 | [Phillip Dawid](http://www.statslab.cam.ac.uk/~apd/)|1.45-2.30|3.45|19.45|18.45|10.45|13.45|
 | [Finnian Lattimore](https://scholar.google.com/citations?user=XlzIPUkAAAAJ&hl=en) | 2.30-3.15|4.30|20.30|19.30|11.30|14.30|
 | [Theory Panel](#Theory-Panel) | 3.15-4.00|5.15    |  21.15   |  20.15   |  12.15   |15.15|
