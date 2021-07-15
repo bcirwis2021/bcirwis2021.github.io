@@ -58,7 +58,8 @@ is a functional of the distribution which can be estimated using standard semipa
 
 # Speaker Bios
 ## Larry Wasserman
-![](https://bcirwis2021.github.io/Larry.jpeg)
+<img src="https://bcirwis2021.github.io/Larry.jpeg" alt="" width="200"/>
+
 
 [Larry Wasserman](https://www.stat.cmu.edu/~larry/) is UPMC University Professor of Statistics and Data Science at Carnegie Mellon University. He also has an appointment in the Machine Learning Department in the School of Computer Science.
 
