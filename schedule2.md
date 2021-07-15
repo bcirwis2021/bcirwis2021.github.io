@@ -25,7 +25,7 @@ layout: section
 
 # Theory Panel
 
-Does causality mean we need to go beyond Bayesian decision theory?
+## Does causality mean we need to go beyond Bayesian decision theory?
 
 [Phillip Dawid](http://www.statslab.cam.ac.uk/~apd/), Cambridge
 
@@ -39,7 +39,7 @@ Does causality mean we need to go beyond Bayesian decision theory?
 
 # Bayes in Production Panel
 
-Is Bayesian inference suitable in production?
+## Is Bayesian inference suitable in production?
 
 [Ralf Herbrich](https://scholar.google.com.au/citations?user=RuvHkikAAAAJ&hl=en), Zalando
 
