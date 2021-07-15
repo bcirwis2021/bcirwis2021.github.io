@@ -57,6 +57,11 @@ is a functional of the distribution which can be estimated using standard semipa
 
 # Speaker Bios
 ## Larry Wasserman
+<style>
+.center {
+    text-align: center;
+}
+</style>
 <img src="https://bcirwis2021.github.io/Larry.jpeg" alt="" width="200" class="center" />
 
 
