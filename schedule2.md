@@ -48,3 +48,8 @@ Is Bayesian inference suitable in production?
 [Cheng Zhang](https://cheng-zhang.org), Microsoft
 
 [John Langford](https://www.microsoft.com/en-us/research/people/jcl/), Microsoft
+
+
+# Larry Wasserman
+[Larry Wasserman](https://www.stat.cmu.edu/~larry/) is UPMC University Professor of Statistics and Data Science at Carnegie Mellon University. He also has an appointment in the Machine Learning Department in the School of Computer Science.
+
