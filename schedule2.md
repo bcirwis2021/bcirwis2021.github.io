@@ -9,7 +9,7 @@ layout: section
 |-------|--------------|---------------|---------------|--------------|---------------|--------------|
 |       |Singapore     |Sydney         |          Paris|        London|  San Francisco|   Pittsburgh |
 | Welcome | 0.30-1.00 | 2.30 | 18.30 | 17.30 | 9.30 | 12.30 |
-| [Larry Wasserman](#Larry-Wasserman) - [Problems With Bayesian Causal Inference](#Problems-With-Bayesian-Causal-Inference)  |       1.00 -1.45 |           3.00|          19.00|         18.00|          10.00|         13.00|
+| [Larry Wasserman](#Larry-Wasserman) - [Problems With Bayesian Causal Inference](#Problems-With-Bayesian-Causal-Inference-\--Larry-Wasserman)  |       1.00 -1.45 |           3.00|          19.00|         18.00|          10.00|         13.00|
 | [Phillip Dawid](http://www.statslab.cam.ac.uk/~apd/)|1.45-2.30|3.45|19.45|18.45|10.45|13.45|
 | [Finnian Lattimore](https://scholar.google.com/citations?user=XlzIPUkAAAAJ&hl=en) | 2.30-3.15|4.30|20.30|19.30|11.30|14.30|
 | [Theory Panel](#Theory-Panel) | 3.15-4.00|5.15    |  21.15   |  20.15   |  12.15   |15.15|
@@ -51,8 +51,7 @@ Is Bayesian inference suitable in production?
 
 
 # Talk Abstracts
-## Problems With Bayesian Causal Inference 
-### Larry Wasserman
+## Problems With Bayesian Causal Inference - Larry Wasserman
 In this talk I'll review the difficulties that arise when using Bayesian inference methods for causal inference. The causal effect
 is a functional of the distribution which can be estimated using standard semiparametric techniques.  This yields valid confidence intervals and estimates that converge at a root n rate. In contrast, Robins and Ritov showed that the Bayes estimate is inconsistent. The problem is that the Bayes estimator is biased. Furthermore, the Bayesian credible interval will have very low coverage.
 
