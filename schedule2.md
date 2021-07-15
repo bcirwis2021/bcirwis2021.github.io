@@ -63,7 +63,7 @@ is a functional of the distribution which can be estimated using standard semipa
 [Larry Wasserman](https://www.stat.cmu.edu/~larry/) is UPMC University Professor of Statistics and Data Science at Carnegie Mellon University. He also has an appointment in the Machine Learning Department in the School of Computer Science.
 
 ## Cheng Zhang
-![](https://bcirwis2021.github.io/cheng-zhang.jpg)
+<img src="https://bcirwis2021.github.io/cheng-zhang.jpg" alt="" width="200"/>
 
 [Cheng Zhang](https://cheng-zhang.org) is a senior researcher at the All Data AI group at Microsoft Research Cambridge (MSRC), UK. Currently, she leads the [Project Azua: Data efficient Decision Making in MSRC](https://www.microsoft.com/en-us/research/project/project_azua/). She is interested in both machine learning theory, including Bayesian deep learning, approximate inference, causality, Bayesian experimental design and reinforcement learning for sequential decision making, as well as various machine learning applications with business and social impact.
 
