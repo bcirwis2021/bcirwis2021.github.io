@@ -76,3 +76,8 @@ is a functional of the distribution which can be estimated using standard semipa
 </p>
 John Langford studied Physics and Computer Science at the California Institute of Technology, earning a double bachelor’s degree in 1997, and received his Ph.D. from Carnegie Mellon University in 2002. Since then, he has worked at Yahoo!, Toyota Technological Institute, and IBM‘s Watson Research Center. He is also the primary author of the popular Machine Learning weblog, hunch.net and the principle developer of Vowpal Wabbit. Previous research projects include Isomap, Captcha, Learning Reductions, Cover Trees, and Contextual Bandit learning.
 
+## Finnian Lattimore
+<p style="text-align:center;">
+<img src="https://bcirwis2021.github.io/Finn.jpg" alt="" width="200" class="center" />
+</p>
+Finn is a Principal Researcher at Gradient Institute where she develops and communicates approaches to machine learning that make explicit the assumptions and value judgments they encode to ensure that AI driven systems satisfy ethical and societal norms. She completed her Ph.D from the Australian National University in 2014, focussing on causal inference in machine learning.
