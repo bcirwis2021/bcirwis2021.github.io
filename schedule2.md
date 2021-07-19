@@ -81,3 +81,8 @@ John Langford studied Physics and Computer Science at the California Institute o
 <img src="https://bcirwis2021.github.io/Finn.jpg" alt="" width="200" class="center" />
 </p>
 Finn is a Principal Researcher at Gradient Institute where she develops and communicates approaches to machine learning that make explicit the assumptions and value judgments they encode to ensure that AI driven systems satisfy ethical and societal norms. She completed her Ph.D from the Australian National University in 2014, focussing on causal inference in machine learning.
+
+## James McInerney
+<p style="text-align:center;">
+<img src="https://bcirwis2021.github.io/James.jpeg" alt="" width="200" class="center" />
+</p>
