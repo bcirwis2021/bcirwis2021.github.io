@@ -50,6 +50,7 @@ layout: section
 
 [John Langford](https://www.microsoft.com/en-us/research/people/jcl/), Microsoft
 
+[Carlos Cinelli](#Carlos-Cinelli)
 
 # Talk Abstracts
 ## Problems With Bayesian Causal Inference - Larry Wasserman
@@ -92,7 +93,7 @@ Finn is a Principal Researcher at Gradient Institute where she develops and comm
 
 ## Carlos Cinelli 
 <p style="text-align:center;">
-<img src="https://bcirwis2021.github.io/" alt="" width="200" class="center" />
+<img src="https://bcirwis2021.github.io/pic.jpg" alt="" width="200" class="center" />
 </p>
 
 Carlos Cinelli is a PhD Candidate in Statistics at UCLA. 
