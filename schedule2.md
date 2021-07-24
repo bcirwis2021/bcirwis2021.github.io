@@ -10,7 +10,7 @@ layout: section
 |       |Singapore     |Sydney         |          Paris|        London|  San Francisco|   Pittsburgh |
 | Welcome | 0.30-1.00 | 2.30 | 18.30 | 17.30 | 9.30 | 12.30 |
 | [Larry Wasserman](#Larry-Wasserman) - [Problems With Bayesian Causal Inference](#Problems-With-Bayesian-Causal-Inference-\--Larry-Wasserman)  |       1.00 -1.45 |           3.00|          19.00|         18.00|          10.00|         13.00|
-| [Phillip Dawid](http://www.statslab.cam.ac.uk/~apd/)|1.45-2.30|3.45|19.45|18.45|10.45|13.45|
+| [Philip Dawid](http://www.statslab.cam.ac.uk/~apd/)|1.45-2.30|3.45|19.45|18.45|10.45|13.45|
 | [Finnian Lattimore](https://scholar.google.com/citations?user=XlzIPUkAAAAJ&hl=en) | 2.30-3.15|4.30|20.30|19.30|11.30|14.30|
 | [Theory Panel](#Theory-Panel) | 3.15-4.00|5.15    |  21.15   |  20.15   |  12.15   |15.15|
 | [Cheng Zhang](#Cheng-Zhang) | 4.00-4.45 | 6.00   |  22.00   |  21.00   |  13.00   |16.00|
@@ -28,13 +28,13 @@ layout: section
 
 ## Does causality mean we need to go beyond Bayesian decision theory?
 
-[Phillip Dawid](http://www.statslab.cam.ac.uk/~apd/), Cambridge
+[Philip Dawid](#Philip-Dawid)
 
-[Larry Wasserman](https://www.stat.cmu.edu/~larry/), CMU
+[Larry Wasserman](#Larry-Wasserman)
 
-[John Langford](https://www.microsoft.com/en-us/research/people/jcl/), Microsoft
+[John Langford](#John-Langford)
 
-[Finnian Lattimore](https://scholar.google.com/citations?user=XlzIPUkAAAAJ&hl=en), The Gradient Institute
+[Finnian Lattimore](Finnian-Lattimore)
 
 [Carlos Cinelli](#Carlos-Cinelli)
 
@@ -63,9 +63,7 @@ is a functional of the distribution which can be estimated using standard semipa
 <img src="https://bcirwis2021.github.io/Larry.jpeg" alt="" width="200" class="center" />
 </p>
 
-[Larry Wasserman](https://www.stat.cmu.edu/~larry/) is UPMC University Professor of Statistics and Data Science at Carnegie Mellon University. He also has an appointment in the Machine Learning Department in the School of Computer Science.
-
-## Philip Dawid
+[Larry Wasserman](https://www.stat.cmu.edu/~larry/) (CMU) is UPMC University Professor of Statistics and Data Science at Carnegie Mellon University. He also has an appointment in the Machine Learning Department in the School of Computer Science.
 
 ## Cheng Zhang
 <p style="text-align:center;">
@@ -104,3 +102,7 @@ His work focuses on developing new causal and statistical methods for transparen
 
 ## Ralf Herbrich
 [Ralf Herbrich](https://scholar.google.com.au/citations?user=RuvHkikAAAAJ&hl=en) (Zalando)
+
+## Philip Dawid
+
+[Philip Dawid](http://www.statslab.cam.ac.uk/~apd/) (Cambridge)
