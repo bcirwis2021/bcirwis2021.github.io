@@ -70,13 +70,15 @@ is a functional of the distribution which can be estimated using standard semipa
 <img src="https://bcirwis2021.github.io/cheng-zhang.jpg" alt="" width="200" class="center" />
 </p>
     
-[Cheng Zhang](https://cheng-zhang.org) is a senior researcher at the All Data AI group at Microsoft Research Cambridge, UK. Currently, she leads the [Project Azua: Data efficient Decision Making in MSRC](https://www.microsoft.com/en-us/research/project/project_azua/). She is interested in both machine learning theory, including Bayesian deep learning, approximate inference, causality, Bayesian experimental design and reinforcement learning for sequential decision making, as well as various machine learning applications with business and social impact.
+[Cheng Zhang](https://cheng-zhang.org) 
+is a senior researcher at the All Data AI group at Microsoft Research Cambridge, UK. Currently, she leads the [Project Azua: Data efficient Decision Making in MSRC](https://www.microsoft.com/en-us/research/project/project_azua/). She is interested in both machine learning theory, including Bayesian deep learning, approximate inference, causality, Bayesian experimental design and reinforcement learning for sequential decision making, as well as various machine learning applications with business and social impact.
 
 ## John Langford
 <p style="text-align:center;">
 <img src="https://bcirwis2021.github.io/jl.jpg" alt="" width="200" class="center" />
 </p>
-[John Langford](https://www.microsoft.com/en-us/research/people/jcl/)  studied Physics and Computer Science at the California Institute of Technology, earning a double bachelor’s degree in 1997, and received his Ph.D. from Carnegie Mellon University in 2002. Since then, he has worked at Yahoo!, Toyota Technological Institute, and IBM‘s Watson Research Center. He is also the primary author of the popular Machine Learning weblog, hunch.net and the principle developer of Vowpal Wabbit. Previous research projects include Isomap, Captcha, Learning Reductions, Cover Trees, and Contextual Bandit learning.
+[John Langford](https://www.microsoft.com/en-us/research/people/jcl/) 
+studied Physics and Computer Science at the California Institute of Technology, earning a double bachelor’s degree in 1997, and received his Ph.D. from Carnegie Mellon University in 2002. Since then, he has worked at Yahoo!, Toyota Technological Institute, and IBM‘s Watson Research Center. He is also the primary author of the popular Machine Learning weblog, hunch.net and the principle developer of Vowpal Wabbit. Previous research projects include Isomap, Captcha, Learning Reductions, Cover Trees, and Contextual Bandit learning.
 
 ## Finnian Lattimore
 <p style="text-align:center;">
