@@ -36,6 +36,7 @@ layout: section
 
 [Finnian Lattimore](https://scholar.google.com/citations?user=XlzIPUkAAAAJ&hl=en), The Gradient Institute
 
+[Carlos Cinelli](#Carlos-Cinelli)
 
 
 # Bayes in Production Panel
@@ -43,14 +44,17 @@ layout: section
 ## Is Bayesian inference suitable in production?
 
 [Ralf Herbrich](https://scholar.google.com.au/citations?user=RuvHkikAAAAJ&hl=en), Zalando
+[Ralf Herbrich](Ralf-Herbrich)
 
 [James McInerney](https://jamesmc.com/about-me), Netflix
+[James McInerney](James-McInerney)
 
 [Cheng Zhang](https://cheng-zhang.org), Microsoft
+[Cheng Zhang](Cheng-Zhang)
 
 [John Langford](https://www.microsoft.com/en-us/research/people/jcl/), Microsoft
+[John Langford](#John-Langford)
 
-[Carlos Cinelli](#Carlos-Cinelli)
 
 # Talk Abstracts
 ## Problems With Bayesian Causal Inference - Larry Wasserman
