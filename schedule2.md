@@ -16,7 +16,7 @@ layout: section
 | [Cheng Zhang](#Cheng-Zhang) | 4.00-4.45 | 6.00   |  22.00   |  21.00   |  13.00   |16.00|
 | Contributed talk: [Smooth Sequential Optimisation with Delayed Feedback](https://bcirwis2021.github.io/Smooth.pdf)  | 4.45-5.05 | 6.45 | 22.45 | 21.45 | 13.45 | 16.45|
 | Break | 5.05-6.00 | 7.05 | 23.05 | 22.05 | 14.05 | 17.05|
-| Poster Session | 6.00-6.45 |8.00|24.00|23.00|15.00|18.00|
+| (Poster Session)[https://bcirwis2021.github.io/accepted.html] | 6.00-6.45 |8.00|24.00|23.00|15.00|18.00|
 | [Bayes in Production Panel](#Bayes-in-Production-Panel) | 6.45-7.30|8.45|00.45|23.45|15.45|18.45|
 | Contributed talk: [Variational Causal Networks: Approximate Bayesian Inference over Causal Structures](https://bcirwis2021.github.io/Variational.pdf) |7.30-7.50|9.30|1.30|00.30|16.30|19.30|
 | Break |7.50-8.10|9.50|1.50|00.50|16.50|19.50|
@@ -107,8 +107,8 @@ He will join the Statistics Department at the University of Washington as an ass
 His work focuses on developing new causal and statistical methods for transparent and robust causal claims in the empirical sciences." 
 
 ## Ralf Herbrich
-[Ralf Herbrich](https://scholar.google.com.au/citations?user=RuvHkikAAAAJ&hl=en) \(Zalando\)
+[Ralf Herbrich](https://scholar.google.com.au/citations?user=RuvHkikAAAAJ&hl=en) (Zaland)
 
 ## Philip Dawid
 
-[Philip Dawid](http://www.statslab.cam.ac.uk/~apd/) \(Cambridge\)
+[Philip Dawid](http://www.statslab.cam.ac.uk/~apd/) (Cambridge)
