@@ -10,8 +10,8 @@ layout: section
 |       |Singapore     |Sydney         |          Paris|        London|  San Francisco|   Pittsburgh |
 | Welcome | 0.30-1.00 | 2.30 | 18.30 | 17.30 | 9.30 | 12.30 |
 | [Larry Wasserman](#Larry-Wasserman) - [Problems With Bayesian Causal Inference](#Problems-With-Bayesian-Causal-Inference-\--Larry-Wasserman)  |       1.00 -1.45 |           3.00|          19.00|         18.00|          10.00|         13.00|
-| [Philip Dawid](http://www.statslab.cam.ac.uk/~apd/)|1.45-2.30|3.45|19.45|18.45|10.45|13.45|
-| [Finnian Lattimore](https://scholar.google.com/citations?user=XlzIPUkAAAAJ&hl=en) | 2.30-3.15|4.30|20.30|19.30|11.30|14.30|
+| [Philip Dawid](#Philip-Dawid)|1.45-2.30|3.45|19.45|18.45|10.45|13.45|
+| [Finnian Lattimore](#Finnian-Lattimore) | 2.30-3.15|4.30|20.30|19.30|11.30|14.30|
 | [Theory Panel](#Theory-Panel) | 3.15-4.00|5.15    |  21.15   |  20.15   |  12.15   |15.15|
 | [Cheng Zhang](#Cheng-Zhang) | 4.00-4.45 | 6.00   |  22.00   |  21.00   |  13.00   |16.00|
 | Contributed talk: [Smooth Sequential Optimisation with Delayed Feedback](https://bcirwis2021.github.io/Smooth.pdf)  | 4.45-5.05 | 6.45 | 22.45 | 21.45 | 13.45 | 16.45|
@@ -20,7 +20,7 @@ layout: section
 | [Bayes in Production Panel](#Bayes-in-Production-Panel) | 6.45-7.30|8.45|00.45|23.45|15.45|18.45|
 | Contributed talk: [Variational Causal Networks: Approximate Bayesian Inference over Causal Structures](https://bcirwis2021.github.io/Variational.pdf) |7.30-7.50|9.30|1.30|00.30|16.30|19.30|
 | Break |7.50-8.10|9.50|1.50|00.50|16.50|19.50|
-| [James McInerney](https://jamesmc.com/about-me)|8.10-8.55|10.10|2.10|1.10|17.10|20.10|
+| [James McInerney](#James-McInerney)|8.10-8.55|10.10|2.10|1.10|17.10|20.10|
 
 
 
