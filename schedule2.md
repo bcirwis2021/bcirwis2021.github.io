@@ -43,16 +43,12 @@ layout: section
 
 ## Is Bayesian inference suitable in production?
 
-[Ralf Herbrich](https://scholar.google.com.au/citations?user=RuvHkikAAAAJ&hl=en), Zalando
 [Ralf Herbrich](#Ralf-Herbrich)
 
-[James McInerney](https://jamesmc.com/about-me), Netflix
 [James McInerney](#James-McInerney)
 
-[Cheng Zhang](https://cheng-zhang.org), Microsoft
 [Cheng Zhang](#Cheng-Zhang)
 
-[John Langford](https://www.microsoft.com/en-us/research/people/jcl/), Microsoft
 [John Langford](#John-Langford)
 
 
@@ -82,18 +78,20 @@ is a functional of the distribution which can be estimated using standard semipa
 <p style="text-align:center;">
 <img src="https://bcirwis2021.github.io/jl.jpg" alt="" width="200" class="center" />
 </p>
-John Langford studied Physics and Computer Science at the California Institute of Technology, earning a double bachelor’s degree in 1997, and received his Ph.D. from Carnegie Mellon University in 2002. Since then, he has worked at Yahoo!, Toyota Technological Institute, and IBM‘s Watson Research Center. He is also the primary author of the popular Machine Learning weblog, hunch.net and the principle developer of Vowpal Wabbit. Previous research projects include Isomap, Captcha, Learning Reductions, Cover Trees, and Contextual Bandit learning.
+[John Langford](https://www.microsoft.com/en-us/research/people/jcl/) (Microsoft) studied Physics and Computer Science at the California Institute of Technology, earning a double bachelor’s degree in 1997, and received his Ph.D. from Carnegie Mellon University in 2002. Since then, he has worked at Yahoo!, Toyota Technological Institute, and IBM‘s Watson Research Center. He is also the primary author of the popular Machine Learning weblog, hunch.net and the principle developer of Vowpal Wabbit. Previous research projects include Isomap, Captcha, Learning Reductions, Cover Trees, and Contextual Bandit learning.
 
 ## Finnian Lattimore
 <p style="text-align:center;">
 <img src="https://bcirwis2021.github.io/Finn.jpg" alt="" width="200" class="center" />
 </p>
-Finn is a Principal Researcher at Gradient Institute where she develops and communicates approaches to machine learning that make explicit the assumptions and value judgments they encode to ensure that AI driven systems satisfy ethical and societal norms. She completed her Ph.D from the Australian National University in 2014, focussing on causal inference in machine learning.
+[Finnian Lattimore](https://scholar.google.com/citations?user=XlzIPUkAAAAJ&hl=en) (The Gradient Institute)
+is a Principal Researcher at Gradient Institute where she develops and communicates approaches to machine learning that make explicit the assumptions and value judgments they encode to ensure that AI driven systems satisfy ethical and societal norms. She completed her Ph.D from the Australian National University in 2014, focussing on causal inference in machine learning.
 
 ## James McInerney
 <p style="text-align:center;">
 <img src="https://bcirwis2021.github.io/James.jpeg" alt="" width="200" class="center" />
 </p>
+[James McInerney](https://jamesmc.com/about-me) (Netflix)
 
 ## Carlos Cinelli 
 <p style="text-align:center;">
@@ -104,3 +102,5 @@ Carlos Cinelli is a PhD Candidate in Statistics at UCLA.
 He will join the Statistics Department at the University of Washington as an assistant professor, this Fall 2021. 
 His work focuses on developing new causal and statistical methods for transparent and robust causal claims in the empirical sciences." 
 
+## Ralf Herbrich
+[Ralf Herbrich](https://scholar.google.com.au/citations?user=RuvHkikAAAAJ&hl=en) (Zalando)
