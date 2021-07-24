@@ -63,33 +63,35 @@ is a functional of the distribution which can be estimated using standard semipa
 <img src="https://bcirwis2021.github.io/Larry.jpeg" alt="" width="200" class="center" />
 </p>
 
-[Larry Wasserman](https://www.stat.cmu.edu/~larry/) \(CMU\) is UPMC University Professor of Statistics and Data Science at Carnegie Mellon University. He also has an appointment in the Machine Learning Department in the School of Computer Science.
+[Larry Wasserman](https://www.stat.cmu.edu/~larry/) is UPMC University Professor of Statistics and Data Science at Carnegie Mellon University. He also has an appointment in the Machine Learning Department in the School of Computer Science.
 
 ## Cheng Zhang
 <p style="text-align:center;">
 <img src="https://bcirwis2021.github.io/cheng-zhang.jpg" alt="" width="200" class="center" />
 </p>
     
-[Cheng Zhang](https://cheng-zhang.org) is a senior researcher at the All Data AI group at Microsoft Research Cambridge \(MSRC\), UK. Currently, she leads the [Project Azua: Data efficient Decision Making in MSRC](https://www.microsoft.com/en-us/research/project/project_azua/). She is interested in both machine learning theory, including Bayesian deep learning, approximate inference, causality, Bayesian experimental design and reinforcement learning for sequential decision making, as well as various machine learning applications with business and social impact.
+[Cheng Zhang](https://cheng-zhang.org) is a senior researcher at the All Data AI group at Microsoft Research Cambridge, UK. Currently, she leads the [Project Azua: Data efficient Decision Making in MSRC](https://www.microsoft.com/en-us/research/project/project_azua/). She is interested in both machine learning theory, including Bayesian deep learning, approximate inference, causality, Bayesian experimental design and reinforcement learning for sequential decision making, as well as various machine learning applications with business and social impact.
 
 ## John Langford
 <p style="text-align:center;">
 <img src="https://bcirwis2021.github.io/jl.jpg" alt="" width="200" class="center" />
 </p>
-[John Langford](https://www.microsoft.com/en-us/research/people/jcl/) \(Microsoft\) studied Physics and Computer Science at the California Institute of Technology, earning a double bachelor’s degree in 1997, and received his Ph.D. from Carnegie Mellon University in 2002. Since then, he has worked at Yahoo!, Toyota Technological Institute, and IBM‘s Watson Research Center. He is also the primary author of the popular Machine Learning weblog, hunch.net and the principle developer of Vowpal Wabbit. Previous research projects include Isomap, Captcha, Learning Reductions, Cover Trees, and Contextual Bandit learning.
+[John Langford](https://www.microsoft.com/en-us/research/people/jcl/)  studied Physics and Computer Science at the California Institute of Technology, earning a double bachelor’s degree in 1997, and received his Ph.D. from Carnegie Mellon University in 2002. Since then, he has worked at Yahoo!, Toyota Technological Institute, and IBM‘s Watson Research Center. He is also the primary author of the popular Machine Learning weblog, hunch.net and the principle developer of Vowpal Wabbit. Previous research projects include Isomap, Captcha, Learning Reductions, Cover Trees, and Contextual Bandit learning.
 
 ## Finnian Lattimore
 <p style="text-align:center;">
 <img src="https://bcirwis2021.github.io/Finn.jpg" alt="" width="200" class="center" />
 </p>
-[Finnian Lattimore](https://scholar.google.com/citations?user=XlzIPUkAAAAJ&hl=en) \(The Gradient Institute\)
+
+[Finnian Lattimore](https://scholar.google.com/citations?user=XlzIPUkAAAAJ&hl=en) 
 is a Principal Researcher at Gradient Institute where she develops and communicates approaches to machine learning that make explicit the assumptions and value judgments they encode to ensure that AI driven systems satisfy ethical and societal norms. She completed her Ph.D from the Australian National University in 2014, focussing on causal inference in machine learning.
 
 ## James McInerney
 <p style="text-align:center;">
 <img src="https://bcirwis2021.github.io/James.jpeg" alt="" width="200" class="center" />
 </p>
-[James McInerney](https://jamesmc.com/about-me) \(Netflix\)
+
+[James McInerney](https://jamesmc.com/about-me) 
 
 ## Carlos Cinelli 
 <p style="text-align:center;">
