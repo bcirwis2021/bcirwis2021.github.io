@@ -14,7 +14,7 @@ layout: section
 | [Finnian Lattimore](#Finnian-Lattimore) | 2.30-3.15|4.30|20.30|19.30|11.30|14.30|
 | [Theory Panel](#Theory-Panel) | 3.15-4.00|5.15    |  21.15   |  20.15   |  12.15   |15.15|
 | [Cheng Zhang](#Cheng-Zhang) | 4.00-4.45 | 6.00   |  22.00   |  21.00   |  13.00   |16.00|
-| Contributed talk: [Smooth Sequential Optimisation with Delayed Feedback](https://bcirwis2021.github.io/Smooth.pdf)  | 4.45-5.05 | 6.45 | 22.45 | 21.45 | 13.45 | 16.45|
+| Contributed talk: [Smooth Sequential Optimisation with Delayed Feedback](https://bcirwis2021.github.io/Smooth.pdf) Srivas Chennu  | 4.45-5.05 | 6.45 | 22.45 | 21.45 | 13.45 | 16.45|
 | Break | 5.05-6.00 | 7.05 | 23.05 | 22.05 | 14.05 | 17.05|
 | [Poster Session](https://bcirwis2021.github.io/accepted.html) | 6.00-6.45 |8.00|24.00|23.00|15.00|18.00|
 | [Bayes in Production Panel](#Bayes-in-Production-Panel) | 6.45-7.30|8.45|00.45|23.45|15.45|18.45|
