@@ -34,7 +34,7 @@ layout: section
 
 [John Langford](#John-Langford)
 
-[Finnian Lattimore](Finnian-Lattimore)
+[Finnian Lattimore](#Finnian-Lattimore)
 
 [Carlos Cinelli](#Carlos-Cinelli)
 
