@@ -44,13 +44,13 @@ layout: section
 ## Is Bayesian inference suitable in production?
 
 [Ralf Herbrich](https://scholar.google.com.au/citations?user=RuvHkikAAAAJ&hl=en), Zalando
-[Ralf Herbrich](Ralf-Herbrich)
+[Ralf Herbrich](#Ralf-Herbrich)
 
 [James McInerney](https://jamesmc.com/about-me), Netflix
-[James McInerney](James-McInerney)
+[James McInerney](#James-McInerney)
 
 [Cheng Zhang](https://cheng-zhang.org), Microsoft
-[Cheng Zhang](Cheng-Zhang)
+[Cheng Zhang](#Cheng-Zhang)
 
 [John Langford](https://www.microsoft.com/en-us/research/people/jcl/), Microsoft
 [John Langford](#John-Langford)
