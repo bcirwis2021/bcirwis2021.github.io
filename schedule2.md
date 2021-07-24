@@ -96,7 +96,7 @@ is a Principal Researcher at Gradient Institute where she develops and communica
 <img src="https://bcirwis2021.github.io/pic.jpg" alt="" width="200" class="center" />
 </p>
 
-Carlos Cinelli is a PhD Candidate in Statistics at UCLA. 
+[Carlos Cinelli](https://carloscinelli.com/) is a PhD Candidate in Statistics at UCLA. 
 He will join the Statistics Department at the University of Washington as an assistant professor, this Fall 2021. 
 His work focuses on developing new causal and statistical methods for transparent and robust causal claims in the empirical sciences." 
 
