@@ -89,3 +89,13 @@ Finn is a Principal Researcher at Gradient Institute where she develops and comm
 <p style="text-align:center;">
 <img src="https://bcirwis2021.github.io/James.jpeg" alt="" width="200" class="center" />
 </p>
+
+## Carlos Cinelli 
+<p style="text-align:center;">
+<img src="https://bcirwis2021.github.io/" alt="" width="200" class="center" />
+</p>
+
+Carlos Cinelli is a PhD Candidate in Statistics at UCLA. 
+He will join the Statistics Department at the University of Washington as an assistant professor, this Fall 2021. 
+His work focuses on developing new causal and statistical methods for transparent and robust causal claims in the empirical sciences." 
+
