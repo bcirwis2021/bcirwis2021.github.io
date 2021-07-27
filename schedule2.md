@@ -10,7 +10,7 @@ layout: section
 |       |Singapore     |Sydney         |          Paris|        London|  San Francisco|   Pittsburgh |
 | Welcome | 0.30-1.00 | 2.30 | 18.30 | 17.30 | 9.30 | 12.30 |
 | [Larry Wasserman](#Larry-Wasserman) - [Problems With Bayesian Causal Inference](#Problems-With-Bayesian-Causal-Inference-\--Larry-Wasserman)  |       1.00 -1.45 |           3.00|          19.00|         18.00|          10.00|         13.00|
-| [Philip Dawid](#Philip-Dawid)  Causal Inference Is Just Bayesian Decision Theory |1.45-2.30|3.45|19.45|18.45|10.45|13.45|
+| [Philip Dawid](#Philip-Dawid) - Causal Inference Is Just Bayesian Decision Theory |1.45-2.30|3.45|19.45|18.45|10.45|13.45|
 | [Finnian Lattimore](#Finnian-Lattimore) | 2.30-3.15|4.30|20.30|19.30|11.30|14.30|
 | [Theory Panel](#Theory-Panel) | 3.15-4.00|5.15    |  21.15   |  20.15   |  12.15   |15.15|
 | [Cheng Zhang](#Cheng-Zhang) | 4.00-4.45 | 6.00   |  22.00   |  21.00   |  13.00   |16.00|
