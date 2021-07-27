@@ -110,7 +110,7 @@ He will join the Statistics Department at the University of Washington as an ass
 His work focuses on developing new causal and statistical methods for transparent and robust causal claims in the empirical sciences." 
 
 ## Ralf Herbrich
-[Ralf Herbrich](https://scholar.google.com.au/citations?user=RuvHkikAAAAJ&hl=en) (Zaland)
+[Ralf Herbrich](https://scholar.google.com.au/citations?user=RuvHkikAAAAJ&hl=en) (Zalando)
 
 ## Philip Dawid
 <p style="text-align:center;">
