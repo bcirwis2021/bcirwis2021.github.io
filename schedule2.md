@@ -13,7 +13,7 @@ layout: section
 | [Philip Dawid](#Philip-Dawid) - Causal Inference Is Just Bayesian Decision Theory |1.45-2.30|3.45|19.45|18.45|10.45|13.45|
 | [Finnian Lattimore](#Finnian-Lattimore) | 2.30-3.15|4.30|20.30|19.30|11.30|14.30|
 | [Theory Panel](#Theory-Panel) | 3.15-4.00|5.15    |  21.15   |  20.15   |  12.15   |15.15|
-| [Cheng Zhang](#Cheng-Zhang) | 4.00-4.45 | 6.00   |  22.00   |  21.00   |  13.00   |16.00|
+| [Cheng Zhang](#Cheng-Zhang) - Simultaneous missing value imputation and causal discovery| 4.00-4.45 | 6.00   |  22.00   |  21.00   |  13.00   |16.00|
 | Contributed talk: [Smooth Sequential Optimisation with Delayed Feedback](https://bcirwis2021.github.io/Smooth.pdf) Srivas Chennu  | 4.45-5.05 | 6.45 | 22.45 | 21.45 | 13.45 | 16.45|
 | Break | 5.05-6.00 | 7.05 | 23.05 | 22.05 | 14.05 | 17.05|
 | [Poster Session](https://bcirwis2021.github.io/accepted.html) | 6.00-6.45 |8.00|24.00|23.00|15.00|18.00|
@@ -59,6 +59,10 @@ is a functional of the distribution which can be estimated using standard semipa
 
 ## Causal Inference Is Just Bayesian Decision Theory - Philip Dawid
 You may think that statistical causal inference is about inferring causation. You may think that it can not be tackled with standard statistical tools, but requires additional structure, such as counterfactual reasoning, potential responses or graphical representations. I shall try to disabuse you of such woolly misconceptions by locating statistical causality firmly within the scope of traditional Bayesian statistical decision theory. From this viewpoint, the enterprise of “statistical causality” could fruitfully be rebranded as “assisted decision making”.
+
+## VICAUSE: Simultaneous missing value imputation and causal discovery
+ 
+Missing values constitute an important challenge in real-world machine learning for both prediction and causal discovery tasks. However, only few methods in causal discovery can handle missing data in an efficient way, while existing imputation methods are agnostic to causality. In this talk, I will introduce VICAUSE, a novel approach to simultaneously tackle missing value imputation and causal discovery efficiently with deep learning. Particularly, we propose a generative model with a structured latent space and a graph neural network-based architecture, scaling to a large number of variables. Moreover, our method can discover relationships between groups of variables which is useful in many real-world applications, such as in the education domain. In the end, I will discuss the opportunities and challenges of using VICause in interactive systems.
 
 # Speaker Bios
 ## Larry Wasserman
