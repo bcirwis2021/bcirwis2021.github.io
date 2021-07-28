@@ -58,7 +58,7 @@ In this talk I'll review the difficulties that arise when using Bayesian inferen
 is a functional of the distribution which can be estimated using standard semiparametric techniques.  This yields valid confidence intervals and estimates that converge at a root n rate. In contrast, Robins and Ritov showed that the Bayes estimate is inconsistent. The problem is that the Bayes estimator is biased. Furthermore, the Bayesian credible interval will have very low coverage.
 
 ## Causal Inference Is Just Bayesian Decision Theory - Philip Dawid
-You may think that statistical causal inference is about inferring cau- sation. You may think that it can not be tackled with standard statistical tools, but requires additional structure, such as counterfactual reasoning, potential responses or graphical representations. I shall try to disabuse you of such woolly misconceptions by locating statistical causality firmly within the scope of traditional Bayesian statistical decision theory. From this viewpoint, the enterprise of “statistical causality” could fruitfully be rebranded as “assisted decision making”.
+You may think that statistical causal inference is about inferring causation. You may think that it can not be tackled with standard statistical tools, but requires additional structure, such as counterfactual reasoning, potential responses or graphical representations. I shall try to disabuse you of such woolly misconceptions by locating statistical causality firmly within the scope of traditional Bayesian statistical decision theory. From this viewpoint, the enterprise of “statistical causality” could fruitfully be rebranded as “assisted decision making”.
 
 # Speaker Bios
 ## Larry Wasserman
