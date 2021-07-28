@@ -114,7 +114,14 @@ He will join the Statistics Department at the University of Washington as an ass
 His work focuses on developing new causal and statistical methods for transparent and robust causal claims in the empirical sciences.
 
 ## Ralf Herbrich
-[Ralf Herbrich](https://scholar.google.com.au/citations?user=RuvHkikAAAAJ&hl=en) (Zalando)
+<p style="text-align:center;">
+<img src="https://bcirwis2021.github.io/ralf.jpg" alt="" width="200" class="center" />
+</p>
+
+[Ralf Herbrich](https://scholar.google.com.au/citations?user=RuvHkikAAAAJ&hl=en) 
+, Senior Vice President Data Science and Machine Learning.
+Dr. Ralf Herbrich leads a diverse range of departments and initiatives that have, at their core, research in the area of artificial intelligence (AI) spanning data science, machine learning and economics in order for Zalando to be the starting point for fashion AI. Ralf’s teams apply and advance the science in many established scientific fields including computer vision, natural language processing, data science and economics. Ralf joined Zalando in January 2020.
+Previously, he served as Managing Director of the Amazon Development Center in Germany (with its locations in Berlin, Dresden, Aachen and Tübingen) and was Director of Machine Learning at Amazon in Berlin from 2013. Prior to this, he held senior positions at Facebook and Microsoft.
 
 ## Philip Dawid
 <p style="text-align:center;">
