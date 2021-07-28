@@ -60,7 +60,7 @@ is a functional of the distribution which can be estimated using standard semipa
 ## Causal Inference Is Just Bayesian Decision Theory - Philip Dawid
 You may think that statistical causal inference is about inferring causation. You may think that it can not be tackled with standard statistical tools, but requires additional structure, such as counterfactual reasoning, potential responses or graphical representations. I shall try to disabuse you of such woolly misconceptions by locating statistical causality firmly within the scope of traditional Bayesian statistical decision theory. From this viewpoint, the enterprise of “statistical causality” could fruitfully be rebranded as “assisted decision making”.
 
-## VICAUSE: Simultaneous missing value imputation and causal discovery
+## VICAUSE: Simultaneous missing value imputation and causal discovery - Cheng Zhang
  
 Missing values constitute an important challenge in real-world machine learning for both prediction and causal discovery tasks. However, only few methods in causal discovery can handle missing data in an efficient way, while existing imputation methods are agnostic to causality. In this talk, I will introduce VICAUSE, a novel approach to simultaneously tackle missing value imputation and causal discovery efficiently with deep learning. Particularly, we propose a generative model with a structured latent space and a graph neural network-based architecture, scaling to a large number of variables. Moreover, our method can discover relationships between groups of variables which is useful in many real-world applications, such as in the education domain. In the end, I will discuss the opportunities and challenges of using VICause in interactive systems.
 
