@@ -60,13 +60,13 @@ is a functional of the distribution which can be estimated using standard semipa
 ## Causal Inference Is Just Bayesian Decision Theory - Philip Dawid
 You may think that statistical causal inference is about inferring causation. You may think that it can not be tackled with standard statistical tools, but requires additional structure, such as counterfactual reasoning, potential responses or graphical representations. I shall try to disabuse you of such woolly misconceptions by locating statistical causality firmly within the scope of traditional Bayesian statistical decision theory. From this viewpoint, the enterprise of “statistical causality” could fruitfully be rebranded as “assisted decision making”.
 
+## Causal Inference with Bayes Rule - Finnian Lattimore
+In this talk, I will show how to take a causal graphical model and represent the invariance assumptions underlying it in an ordinary probabilistic graphical model. This allows causal inference with nothing more than Bayes rule, yielding equivalent results to the do-calculus. I hope that drawing a direct connection between causal graphical models and Bayesian modelling helps bridge the gap in how causal inference is conceptualised between these two schools of thought and resolves confusion over questions such as “should we always condition on all observable data?” There may also be some practical benefits. Encoding structural causal assumptions within a Bayesian framework makes it straightforward to add additional (parametric) assumptions. In addition, we can (in principle) tackle problems that are not identifiable - although in this case aspects of the posterior will remain sensitive to the prior even given infinite data. 
+
+
 ## VICAUSE: Simultaneous missing value imputation and causal discovery - Cheng Zhang
- 
 Missing values constitute an important challenge in real-world machine learning for both prediction and causal discovery tasks. However, only few methods in causal discovery can handle missing data in an efficient way, while existing imputation methods are agnostic to causality. In this talk, I will introduce VICAUSE, a novel approach to simultaneously tackle missing value imputation and causal discovery efficiently with deep learning. Particularly, we propose a generative model with a structured latent space and a graph neural network-based architecture, scaling to a large number of variables. Moreover, our method can discover relationships between groups of variables which is useful in many real-world applications, such as in the education domain. In the end, I will discuss the opportunities and challenges of using VICause in interactive systems.
 
-## Causal Inference with Bayes Rule - Finnian Lattimore
-
-In this talk, I will show how to take a causal graphical model and represent the invariance assumptions underlying it in an ordinary probabilistic graphical model. This allows causal inference with nothing more than Bayes rule, yielding equivalent results to the do-calculus. I hope that drawing a direct connection between causal graphical models and Bayesian modelling helps bridge the gap in how causal inference is conceptualised between these two schools of thought and resolves confusion over questions such as “should we always condition on all observable data?” There may also be some practical benefits. Encoding structural causal assumptions within a Bayesian framework makes it straightforward to add additional (parametric) assumptions. In addition, we can (in principle) tackle problems that are not identifiable - although in this case aspects of the posterior will remain sensitive to the prior even given infinite data. 
 
 # Speaker Bios
 ## Larry Wasserman
@@ -77,21 +77,13 @@ In this talk, I will show how to take a causal graphical model and represent the
 [Larry Wasserman](https://www.stat.cmu.edu/~larry/)
 is UPMC University Professor of Statistics and Data Science at Carnegie Mellon University. He also has an appointment in the Machine Learning Department in the School of Computer Science.
 
-## Cheng Zhang
+## Philip Dawid
 <p style="text-align:center;">
-<img src="https://bcirwis2021.github.io/cheng-zhang.jpg" alt="" width="200" class="center" />
+<img src="https://bcirwis2021.github.io/pd.jpg" alt="" width="200" class="center" />
 </p>
 
-[Cheng Zhang](https://cheng-zhang.org) 
-is a senior researcher at the All Data AI group at Microsoft Research Cambridge, UK. Currently, she leads the [Project Azua: Data efficient Decision Making in MSRC](https://www.microsoft.com/en-us/research/project/project_azua/). She is interested in both machine learning theory, including Bayesian deep learning, approximate inference, causality, Bayesian experimental design and reinforcement learning for sequential decision making, as well as various machine learning applications with business and social impact.
+[Philip Dawid](http://www.statslab.cam.ac.uk/~apd/) is Emeritus Professor of Statistics, University of Cambridge. For many years he was Professor of Probability and Statistics at University College London. He has served as Editor of Biometrika and of the Journal of the Royal Statistical Society (Series B). He is an elected Fellow of the Royal Society, of the Institute of Mathematical Statistics, of the International Statistical Institute, and of the International Society for Bayesian Analysis (ISBA), and has served as Vice-President of the Royal Statistical Society (RSS) and as President of ISBA, of which he is an honorary lifetime member. Other honours include the Snedecor and DeGroot Prizes, and RSS Guy Medals in Bronze and Silver. His research interests include logical foundations of Bayesian and other schools of probability and statistics, Bayes nets, statistical causality, probability forecasting, and forensic inference.
 
-## John Langford
-<p style="text-align:center;">
-<img src="https://bcirwis2021.github.io/jl.jpg" alt="" width="200" class="center" />
-</p>
-
-[John Langford](https://www.microsoft.com/en-us/research/people/jcl/)
-studied Physics and Computer Science at the California Institute of Technology, earning a double bachelor’s degree in 1997, and received his Ph.D. from Carnegie Mellon University in 2002. Since then, he has worked at Yahoo!, Toyota Technological Institute, and IBM‘s Watson Research Center. He is also the primary author of the popular Machine Learning weblog, hunch.net and the principle developer of Vowpal Wabbit. Previous research projects include Isomap, Captcha, Learning Reductions, Cover Trees, and Contextual Bandit learning.
 
 ## Finnian Lattimore
 <p style="text-align:center;">
@@ -100,6 +92,16 @@ studied Physics and Computer Science at the California Institute of Technology, 
 
 [Finnian Lattimore](https://scholar.google.com/citations?user=XlzIPUkAAAAJ&hl=en) 
 is a Principal Researcher at Gradient Institute where she develops and communicates approaches to machine learning that make explicit the assumptions and value judgments they encode to ensure that AI driven systems satisfy ethical and societal norms. She completed her Ph.D from the Australian National University in 2014, focussing on causal inference in machine learning.
+
+
+## Cheng Zhang
+<p style="text-align:center;">
+<img src="https://bcirwis2021.github.io/cheng-zhang.jpg" alt="" width="200" class="center" />
+</p>
+
+[Cheng Zhang](https://cheng-zhang.org) 
+is a senior researcher at the All Data AI group at Microsoft Research Cambridge, UK. Currently, she leads the [Project Azua: Data efficient Decision Making in MSRC](https://www.microsoft.com/en-us/research/project/project_azua/). She is interested in both machine learning theory, including Bayesian deep learning, approximate inference, causality, Bayesian experimental design and reinforcement learning for sequential decision making, as well as various machine learning applications with business and social impact.
+
 
 ## James McInerney
 <p style="text-align:center;">
@@ -127,9 +129,10 @@ His work focuses on developing new causal and statistical methods for transparen
 Dr. Ralf Herbrich leads a diverse range of departments and initiatives that have, at their core, research in the area of artificial intelligence (AI) spanning data science, machine learning and economics in order for Zalando to be the starting point for fashion AI. Ralf’s teams apply and advance the science in many established scientific fields including computer vision, natural language processing, data science and economics. Ralf joined Zalando in January 2020.
 Previously, he served as Managing Director of the Amazon Development Center in Germany (with its locations in Berlin, Dresden, Aachen and Tübingen) and was Director of Machine Learning at Amazon in Berlin from 2013. Prior to this, he held senior positions at Facebook and Microsoft.
 
-## Philip Dawid
+## John Langford
 <p style="text-align:center;">
-<img src="https://bcirwis2021.github.io/pd.jpg" alt="" width="200" class="center" />
+<img src="https://bcirwis2021.github.io/jl.jpg" alt="" width="200" class="center" />
 </p>
 
-[Philip Dawid](http://www.statslab.cam.ac.uk/~apd/) is Emeritus Professor of Statistics, University of Cambridge. For many years he was Professor of Probability and Statistics at University College London. He has served as Editor of Biometrika and of the Journal of the Royal Statistical Society (Series B). He is an elected Fellow of the Royal Society, of the Institute of Mathematical Statistics, of the International Statistical Institute, and of the International Society for Bayesian Analysis (ISBA), and has served as Vice-President of the Royal Statistical Society (RSS) and as President of ISBA, of which he is an honorary lifetime member. Other honours include the Snedecor and DeGroot Prizes, and RSS Guy Medals in Bronze and Silver. His research interests include logical foundations of Bayesian and other schools of probability and statistics, Bayes nets, statistical causality, probability forecasting, and forensic inference.
+[John Langford](https://www.microsoft.com/en-us/research/people/jcl/)
+studied Physics and Computer Science at the California Institute of Technology, earning a double bachelor’s degree in 1997, and received his Ph.D. from Carnegie Mellon University in 2002. Since then, he has worked at Yahoo!, Toyota Technological Institute, and IBM‘s Watson Research Center. He is also the primary author of the popular Machine Learning weblog, hunch.net and the principle developer of Vowpal Wabbit. Previous research projects include Isomap, Captcha, Learning Reductions, Cover Trees, and Contextual Bandit learning.
