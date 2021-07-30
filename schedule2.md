@@ -64,6 +64,10 @@ You may think that statistical causal inference is about inferring causation. Yo
  
 Missing values constitute an important challenge in real-world machine learning for both prediction and causal discovery tasks. However, only few methods in causal discovery can handle missing data in an efficient way, while existing imputation methods are agnostic to causality. In this talk, I will introduce VICAUSE, a novel approach to simultaneously tackle missing value imputation and causal discovery efficiently with deep learning. Particularly, we propose a generative model with a structured latent space and a graph neural network-based architecture, scaling to a large number of variables. Moreover, our method can discover relationships between groups of variables which is useful in many real-world applications, such as in the education domain. In the end, I will discuss the opportunities and challenges of using VICause in interactive systems.
 
+## Causal Inference with Bayes Rule - Finnian Lattimore
+
+In this talk, I will show how to take a causal graphical model and represent the invariance assumptions underlying it in an ordinary probabilistic graphical model. This allows causal inference with nothing more than Bayes rule, yielding equivalent results to the do-calculus. I hope that drawing a direct connection between causal graphical models and Bayesian modelling helps bridge the gap in how causal inference is conceptualised between these two schools of thought and resolves confusion over questions such as “should we always condition on all observable data?” There may also be some practical benefits. Encoding structural causal assumptions within a Bayesian framework makes it straightforward to add additional (parametric) assumptions. In addition, we can (in principle) tackle problems that are not identifiable - although in this case aspects of the posterior will remain sensitive to the prior even given infinite data. 
+
 # Speaker Bios
 ## Larry Wasserman
 <p style="text-align:center;">
