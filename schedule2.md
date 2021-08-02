@@ -19,7 +19,7 @@ layout: section
 | [Poster Session](https://bcirwis2021.github.io/accepted.html) | 6.00-6.45 |8.00|24.00|23.00|15.00|18.00|
 | [Bayes in Production Panel](#bayes-in-production-panel) | 6.45-7.30|8.45|00.45|23.45|15.45|18.45|
 | Contributed talk: [Variational Causal Networks: Approximate Bayesian Inference over Causal Structures](https://bcirwis2021.github.io/Variational.pdf) - Annadani  Yashas |7.30-7.50|9.30|1.30|00.30|16.30|19.30|
-| [James McInerney](#james-mcinerney) - [Scalable Thompson Sampling for Non-Conjugate Models](#scalable-thompson-sampling-for-non--conjugate-models---james-mcinerney) |7.50-8.35|9.50|1.50|00.50|16.50|19.50|
+| [James McInerney](#james-mcinerney) - [Scalable Thompson Sampling for Non-Conjugate Models](#scalable-thompson-sampling-for-non-conjugate-models---james-mcinerney) |7.50-8.35|9.50|1.50|00.50|16.50|19.50|
 
 
 # Theory Panel
