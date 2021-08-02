@@ -9,11 +9,11 @@ layout: section
 |-------|--------------|---------------|---------------|--------------|---------------|--------------|
 |       |Singapore     |Sydney         |          Paris|        London|  San Francisco|   Pittsburgh |
 | Welcome | 0.30-1.00 | 2.30 | 18.30 | 17.30 | 9.30 | 12.30 |
-| [Larry Wasserman](#larry-wasserman) - [Problems With Bayesian Causal Inference](#problems-with-bayesian-causal-inference--larry-wasserman)  |       1.00 -1.45 |           3.00|          19.00|         18.00|          10.00|         13.00|
-| [Philip Dawid](#philip-dawid) - [Causal Inference Is Just Bayesian Decision Theory](#causal-inference-is-just-bayesian-decision-theory--philip-dawid) |1.45-2.30|3.45|19.45|18.45|10.45|13.45|
-| [Finnian Lattimore](#finnian-lattimore) - [Causal Inference with Bayes Rule](#causal-inference-with-bayes-rule--finnian-lattimore)| 2.30-3.15|4.30|20.30|19.30|11.30|14.30|
+| [Larry Wasserman](#larry-wasserman) - [Problems With Bayesian Causal Inference](#problems-with-bayesian-causal-inference---larry-wasserman)  |       1.00 -1.45 |           3.00|          19.00|         18.00|          10.00|         13.00|
+| [Philip Dawid](#philip-dawid) - [Causal Inference Is Just Bayesian Decision Theory](#causal-inference-is-just-bayesian-decision-theory---philip-dawid) |1.45-2.30|3.45|19.45|18.45|10.45|13.45|
+| [Finnian Lattimore](#finnian-lattimore) - [Causal Inference with Bayes Rule](#causal-inference-with-bayes-rule---finnian-lattimore)| 2.30-3.15|4.30|20.30|19.30|11.30|14.30|
 | [Theory Panel](#theory-panel) | 3.15-4.00|5.15    |  21.15   |  20.15   |  12.15   |15.15|
-| [Cheng Zhang](#cheng-zhang) - [Simultaneous missing value imputation and causal discovery](#simultaneous-missing-value-imputation-and-causal-discovery--cheng-zhang)| 4.00-4.45 | 6.00   |  22.00   |  21.00   |  13.00   |16.00|
+| [Cheng Zhang](#cheng-zhang) - [Simultaneous missing value imputation and causal discovery](#simultaneous-missing-value-imputation-and-causal-discovery---cheng-zhang)| 4.00-4.45 | 6.00   |  22.00   |  21.00   |  13.00   |16.00|
 | Contributed talk: [Smooth Sequential Optimisation with Delayed Feedback](https://bcirwis2021.github.io/Smooth.pdf) - Srivas Chennu  | 4.45-5.05 | 6.45 | 22.45 | 21.45 | 13.45 | 16.45|
 | Break | 5.05-6.00 | 7.05 | 23.05 | 22.05 | 14.05 | 17.05|
 | [Poster Session](https://bcirwis2021.github.io/accepted.html) | 6.00-6.45 |8.00|24.00|23.00|15.00|18.00|
