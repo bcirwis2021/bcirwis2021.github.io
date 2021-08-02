@@ -9,11 +9,11 @@ layout: section
 |-------|--------------|---------------|---------------|--------------|---------------|--------------|
 |       |Singapore     |Sydney         |          Paris|        London|  San Francisco|   Pittsburgh |
 | Welcome | 0.30-1.00 | 2.30 | 18.30 | 17.30 | 9.30 | 12.30 |
-| [Larry Wasserman](#larry-wasserman) - [Problems With Bayesian Causal Inference](#problems-with-bayesian-causal-inference-\-larry-wasserman)  |       1.00 -1.45 |           3.00|          19.00|         18.00|          10.00|         13.00|
-| [Philip Dawid](#philip-dawid) - [Causal Inference Is Just Bayesian Decision Theory](#causal-inference-is-just-bayesian-decision-theory) |1.45-2.30|3.45|19.45|18.45|10.45|13.45|
-| [Finnian Lattimore](#finnian-lattimore) - [Causal Inference with Bayes Rule](#causal-inference-with-bayes-rule)| 2.30-3.15|4.30|20.30|19.30|11.30|14.30|
+| [Larry Wasserman](#larry-wasserman) - [Problems With Bayesian Causal Inference](#problems-with-bayesian-causal-inference--larry-wasserman)  |       1.00 -1.45 |           3.00|          19.00|         18.00|          10.00|         13.00|
+| [Philip Dawid](#philip-dawid) - [Causal Inference Is Just Bayesian Decision Theory](#causal-inference-is-just-bayesian-decision-theory--philip-dawid) |1.45-2.30|3.45|19.45|18.45|10.45|13.45|
+| [Finnian Lattimore](#finnian-lattimore) - [Causal Inference with Bayes Rule](#causal-inference-with-bayes-rule--finnian-lattimore)| 2.30-3.15|4.30|20.30|19.30|11.30|14.30|
 | [Theory Panel](#theory-panel) | 3.15-4.00|5.15    |  21.15   |  20.15   |  12.15   |15.15|
-| [Cheng Zhang](#cheng-zhang) - (Simultaneous missing value imputation and causal discovery)[#simultaneous-missing-value-imputation-and-causal-discovery]| 4.00-4.45 | 6.00   |  22.00   |  21.00   |  13.00   |16.00|
+| [Cheng Zhang](#cheng-zhang) - (Simultaneous missing value imputation and causal discovery)[#simultaneous-missing-value-imputation-and-causal-discovery--cheng-zhang]| 4.00-4.45 | 6.00   |  22.00   |  21.00   |  13.00   |16.00|
 | Contributed talk: [Smooth Sequential Optimisation with Delayed Feedback](https://bcirwis2021.github.io/Smooth.pdf) - Srivas Chennu  | 4.45-5.05 | 6.45 | 22.45 | 21.45 | 13.45 | 16.45|
 | Break | 5.05-6.00 | 7.05 | 23.05 | 22.05 | 14.05 | 17.05|
 | [Poster Session](https://bcirwis2021.github.io/accepted.html) | 6.00-6.45 |8.00|24.00|23.00|15.00|18.00|
@@ -62,7 +62,7 @@ You may think that statistical causal inference is about inferring causation. Yo
 In this talk, I will show how to take a causal graphical model and represent the invariance assumptions underlying it in an ordinary probabilistic graphical model. This allows causal inference with nothing more than Bayes rule, yielding equivalent results to the do-calculus. I hope that drawing a direct connection between causal graphical models and Bayesian modelling helps bridge the gap in how causal inference is conceptualised between these two schools of thought and resolves confusion over questions such as “should we always condition on all observable data?” There may also be some practical benefits. Encoding structural causal assumptions within a Bayesian framework makes it straightforward to add additional (parametric) assumptions. In addition, we can (in principle) tackle problems that are not identifiable - although in this case aspects of the posterior will remain sensitive to the prior even given infinite data. 
 
 
-## VICAUSE: Simultaneous missing value imputation and causal discovery - Cheng Zhang
+## VICAUSE: Simultaneous Missing Value Imputation and Causal Discovery - Cheng Zhang
 Missing values constitute an important challenge in real-world machine learning for both prediction and causal discovery tasks. However, only few methods in causal discovery can handle missing data in an efficient way, while existing imputation methods are agnostic to causality. In this talk, I will introduce VICAUSE, a novel approach to simultaneously tackle missing value imputation and causal discovery efficiently with deep learning. Particularly, we propose a generative model with a structured latent space and a graph neural network-based architecture, scaling to a large number of variables. Moreover, our method can discover relationships between groups of variables which is useful in many real-world applications, such as in the education domain. In the end, I will discuss the opportunities and challenges of using VICause in interactive systems.
 
 
