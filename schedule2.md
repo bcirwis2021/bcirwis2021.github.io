@@ -19,7 +19,7 @@ layout: section
 | [Poster Session](https://bcirwis2021.github.io/accepted.html) | 6.00-6.45 |8.00|24.00|23.00|15.00|18.00|
 | [Bayes in Production Panel](#bayes-in-production-panel) | 6.45-7.30|8.45|00.45|23.45|15.45|18.45|
 | Contributed talk: [Variational Causal Networks: Approximate Bayesian Inference over Causal Structures](https://bcirwis2021.github.io/Variational.pdf) - Annadani  Yashas |7.30-7.50|9.30|1.30|00.30|16.30|19.30|
-| [James McInerney](#james-mcinerney) |7.50-8.35|9.50|1.50|00.50|16.50|19.50|
+| [James McInerney](#james-mcinerney) - [Scalable Thompson Sampling for Non-Conjugate Models](#scalable-thompson-sampling-for-non---conjugate-models) |7.50-8.35|9.50|1.50|00.50|16.50|19.50|
 
 
 # Theory Panel
@@ -65,6 +65,8 @@ In this talk, I will show how to take a causal graphical model and represent the
 ## VICAUSE: Simultaneous Missing Value Imputation and Causal Discovery - Cheng Zhang
 Missing values constitute an important challenge in real-world machine learning for both prediction and causal discovery tasks. However, only few methods in causal discovery can handle missing data in an efficient way, while existing imputation methods are agnostic to causality. In this talk, I will introduce VICAUSE, a novel approach to simultaneously tackle missing value imputation and causal discovery efficiently with deep learning. Particularly, we propose a generative model with a structured latent space and a graph neural network-based architecture, scaling to a large number of variables. Moreover, our method can discover relationships between groups of variables which is useful in many real-world applications, such as in the education domain. In the end, I will discuss the opportunities and challenges of using VICause in interactive systems.
 
+## Scalable Thompson Sampling for Non-Conjugate Models - James McInerney
+Thompson sampling is a leading Bayesian method for implementing exploration-exploitation in interactive systems. However, it is difficult to apply to non-conjugate models in which the posterior must be approximated. Reliable posterior covariance is challenging to scale with Monte Carlo methods and is underestimated with variational inference. In this talk, I develop methods for Thompson sampling non-conjugate models that are theoretically motivated and simple to implement.
 
 # Speaker Bios
 ## Larry Wasserman
@@ -107,6 +109,7 @@ is a senior researcher at the All Data AI group at Microsoft Research Cambridge,
 </p>
 
 [James McInerney](https://jamesmc.com/about-me) 
+is a Senior Research Scientist at Netflix. His research is on Bayesian approaches to machine learning with applications to recommender systems, stochastic processes, and causal reasoning. He was previously a senior researcher at Spotify (New York) and held postdoctoral positions at Columbia University and Princeton University.
 
 ## Carlos Cinelli 
 <p style="text-align:center;">
