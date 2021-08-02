@@ -26,6 +26,8 @@ layout: section
 
 ## Does causality mean we need to go beyond Bayesian decision theory?
 
+<a href=full/#Philip-Dawid>Philip Dawid</a>
+
 [Philip Dawid](#Philip-Dawid)
 
 [Larry Wasserman](#Larry-Wasserman)
