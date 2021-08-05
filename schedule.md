@@ -4,6 +4,7 @@ layout: section
 
 <img height="80" src="{{ site.logo }}" class="rounded mx-auto d-block" alt="logo">
 
+Note this timetable slightly differs from the official KDD times (we start half an hour earlier and we start the second session earlier.
 
 |Speaker|Monday 16 Aug | Monday 16 Aug | Sunday 15 Aug | Sunday 15 Aug| Sunday 15 Aug | Sunday 15 Aug|
 |-------|--------------|---------------|---------------|--------------|---------------|--------------|
@@ -135,5 +136,5 @@ Previously, he served as Managing Director of the Amazon Development Center in G
 <img src="https://bcirwis2021.github.io/jl.jpg" alt="" width="200" class="center" />
 </p>
 
-[John Langford](https://www.microsoft.com/en-us/research/people/jcl/)
+[John Langford](https://www.microsoft.com/en-us/research/people/jcl/) is a Partner Researcher Manager at Microsoft.  He
 studied Physics and Computer Science at the California Institute of Technology, earning a double bachelor’s degree in 1997, and received his Ph.D. from Carnegie Mellon University in 2002. Since then, he has worked at Yahoo!, Toyota Technological Institute, and IBM‘s Watson Research Center. He is also the primary author of the popular Machine Learning weblog, hunch.net and the principle developer of Vowpal Wabbit. Previous research projects include Isomap, Captcha, Learning Reductions, Cover Trees, and Contextual Bandit learning.
