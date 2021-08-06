@@ -9,18 +9,18 @@ Note this timetable slightly differs from the official KDD times (we start half 
 |Speaker|Monday 16 Aug | Monday 16 Aug | Sunday 15 Aug | Sunday 15 Aug| Sunday 15 Aug | Sunday 15 Aug|
 |-------|--------------|---------------|---------------|--------------|---------------|--------------|
 |       |Singapore     |Sydney         |          Paris|        London|  San Francisco|   Pittsburgh |
-| Welcome | 12.30-13.00 | 2.30 | 18.30 | 17.30 | 9.30 | 12.30 |
+| Welcome | 0.30-13.00 | 2.30 | 18.30 | 17.30 | 9.30 | 12.30 |
 | [Larry Wasserman](#larry-wasserman) - [Problems With Bayesian Causal Inference](#problems-with-bayesian-causal-inference---larry-wasserman)  |       13.00 -13.45 |           3.00|          19.00|         18.00|          10.00|         13.00|
-| [Philip Dawid](#philip-dawid) - [Causal Inference Is Just Bayesian Decision Theory](#causal-inference-is-just-bayesian-decision-theory---philip-dawid) |13.45-14.30|3.45|19.45|18.45|10.45|13.45|
-| [Finnian Lattimore](#finnian-lattimore) - [Causal Inference with Bayes Rule](#causal-inference-with-bayes-rule---finnian-lattimore)| 14.30-15.15|4.30|20.30|19.30|11.30|14.30|
-| [Theory Panel](#theory-panel) | 15.15-16.00|5.15    |  21.15   |  20.15   |  12.15   |15.15|
-| [Cheng Zhang](#cheng-zhang) - [Simultaneous missing value imputation and causal discovery](#vicause-simultaneous-missing-value-imputation-and-causal-discovery---cheng-zhang)| 16.00-16.45 | 6.00   |  22.00   |  21.00   |  13.00   |16.00|
-| Contributed talk: [Smooth Sequential Optimisation with Delayed Feedback](https://bcirwis2021.github.io/Smooth.pdf) - Srivas Chennu  | 16.45-17.05 | 6.45 | 22.45 | 21.45 | 13.45 | 16.45|
-| Break | 17.05-18.00 | 7.05 | 23.05 | 22.05 | 14.05 | 17.05|
-| [Poster Session](https://bcirwis2021.github.io/accepted.html) | 18.00-18.45 |8.00|24.00|23.00|15.00|18.00|
-| [Bayes in Production Panel](#bayes-in-production-panel) | 18.45-12.30|8.45|00.45|23.45|15.45|18.45|
-| Contributed talk: [Variational Causal Networks: Approximate Bayesian Inference over Causal Structures](https://bcirwis2021.github.io/Variational.pdf) - Annadani  Yashas |19.30-19.50|9.30|1.30|00.30|16.30|19.30|
-| [James McInerney](#james-mcinerney) - [Scalable Thompson Sampling for Non-Conjugate Models](#scalable-thompson-sampling-for-non-conjugate-models---james-mcinerney) |19.50-8.35|9.50|1.50|00.50|16.50|19.50|
+| [Philip Dawid](#philip-dawid) - [Causal Inference Is Just Bayesian Decision Theory](#causal-inference-is-just-bayesian-decision-theory---philip-dawid) |1.45-2.30|3.45|19.45|18.45|10.45|13.45|
+| [Finnian Lattimore](#finnian-lattimore) - [Causal Inference with Bayes Rule](#causal-inference-with-bayes-rule---finnian-lattimore)| 2.30-3.15|4.30|20.30|19.30|11.30|14.30|
+| [Theory Panel](#theory-panel) | 3.15-4.00|5.15    |  21.15   |  20.15   |  12.15   |15.15|
+| [Cheng Zhang](#cheng-zhang) - [Simultaneous missing value imputation and causal discovery](#vicause-simultaneous-missing-value-imputation-and-causal-discovery---cheng-zhang)| 4.00-4.45 | 6.00   |  22.00   |  21.00   |  13.00   |16.00|
+| Contributed talk: [Smooth Sequential Optimisation with Delayed Feedback](https://bcirwis2021.github.io/Smooth.pdf) - Srivas Chennu  | 4.45-5.05 | 6.45 | 22.45 | 21.45 | 13.45 | 16.45|
+| Break | 5.05-6.00 | 7.05 | 23.05 | 22.05 | 14.05 | 17.05|
+| [Poster Session](https://bcirwis2021.github.io/accepted.html) | 6.00-6.45 |8.00|24.00|23.00|15.00|18.00|
+| [Bayes in Production Panel](#bayes-in-production-panel) | 6.45-7.30|8.45|00.45|23.45|15.45|18.45|
+| Contributed talk: [Variational Causal Networks: Approximate Bayesian Inference over Causal Structures](https://bcirwis2021.github.io/Variational.pdf) - Annadani  Yashas |7.30-7.50|9.30|1.30|00.30|16.30|19.30|
+| [James McInerney](#james-mcinerney) - [Scalable Thompson Sampling for Non-Conjugate Models](#scalable-thompson-sampling-for-non-conjugate-models---james-mcinerney) |7.50-8.35|9.50|1.50|00.50|16.50|19.50|
 
 
 # Theory Panel
