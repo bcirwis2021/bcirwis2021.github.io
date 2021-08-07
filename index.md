@@ -8,7 +8,7 @@ layout: section
 # Bayesian Causal Inference 
 <div class="subtitle">for Real World Interactive Systems</div>
 <div class="lead">a workshop at <a href='https://kdd.org/kdd2021/'>KDD 2021</a></div>
-<div class="lead">14-15 August 2021</div>
+<div class="lead">15-16 August 2021</div>
 
 <!-- INTRO SECTION -->
 <section id="main" class="container" style='padding-top:0rem; margin-top:-0rem;'>
