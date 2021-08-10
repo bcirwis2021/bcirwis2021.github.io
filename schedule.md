@@ -4,7 +4,6 @@ layout: section
 
 <img height="80" src="{{ site.logo }}" class="rounded mx-auto d-block" alt="logo">
 
-Note this timetable slightly differs from the official KDD times (we start half an hour earlier and we start the second session earlier.
 
 |Speaker|Monday 16 Aug | Monday 16 Aug | Sunday 15 Aug | Sunday 15 Aug| Sunday 15 Aug | Sunday 15 Aug|
 |-------|--------------|---------------|---------------|--------------|---------------|--------------|
