@@ -50,6 +50,8 @@ Note this timetable slightly differs from the official KDD times (we start half 
 
 [John Langford](#john-langford)
 
+[Diego Legrand](#diego-legrand)
+
 
 # Talk Abstracts
 ## Problems With Bayesian Causal Inference - Larry Wasserman
@@ -138,3 +140,11 @@ Previously, he served as Managing Director of the Amazon Development Center in G
 
 [John Langford](https://www.microsoft.com/en-us/research/people/jcl/) is a Partner Researcher Manager at Microsoft.  He
 studied Physics and Computer Science at the California Institute of Technology, earning a double bachelor’s degree in 1997, and received his Ph.D. from Carnegie Mellon University in 2002. Since then, he has worked at Yahoo!, Toyota Technological Institute, and IBM‘s Watson Research Center. He is also the primary author of the popular Machine Learning weblog, hunch.net and the principle developer of Vowpal Wabbit. Previous research projects include Isomap, Captcha, Learning Reductions, Cover Trees, and Contextual Bandit learning.
+
+
+## Diego Legrand
+<p style="text-align:center;">
+<img src="https://bcirwis2021.github.io/Diego.jpg" alt="" width="200" class="center" />
+</p>
+
+Diego Legrand is the Lead Machine Learning Engineer of the Contextual Recommendation team at Criteo. His work focuses on implementing deep learning systems in production to recommend the right product in online advertisements without using user history based data. He holds a Master's degree in applied mathematics from Ecole Centrale Paris and previously worked on Bayesian multivariate AB-testing.
