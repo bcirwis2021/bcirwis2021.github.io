@@ -19,4 +19,4 @@ layout: section
 
 [Off-Policy Evaluation with General Logging Policies](https://bcirwis2021.github.io/Off_Policy.pdf) Yusuke Narita (Yale University); Kyohei Okumura (Northwestern University); Akihiro Shimizu (Mercari); Kohei Yata (Yale University)*
 
-[Recommendation Using Reward Modelling and Sophisticated Practical Compromises](https://bcirwis2021.github.io/DeepR_approach.pdf) Amine Benhalloum (Criteo); Guillaume Genthial (Criteo); David Rohde (Criteo); Flavian Vasile (Criteo) [Poster](https://bcirwis2021.github.io/Imad_Poster.pdf) [Slides](https://bcirwis2021.github.io/Slides_Rank_Reward.pdf)
+[Recommendation Using Reward Modelling and Sophisticated Practical Compromises](https://bcirwis2021.github.io/DeepR_approach.pdf) Amine Benhalloum (Criteo); Guillaume Genthial (Criteo); David Rohde (Criteo); Flavian Vasile (Criteo) [Poster](https://bcirwis2021.github.io/Imad_Poster.pdf), [Slides](https://bcirwis2021.github.io/Slides_Rank_Reward.pdf)
