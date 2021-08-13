@@ -8,7 +8,7 @@ layout: section
 |Speaker|Monday 16 Aug | Monday 16 Aug | Sunday 15 Aug | Sunday 15 Aug| Sunday 15 Aug | Sunday 15 Aug|
 |-------|--------------|---------------|---------------|--------------|---------------|--------------|
 |       |Singapore     |Sydney         |          Paris|        London|  San Francisco|   Pittsburgh |
-| Welcome | 0.30-13.00 | 2.30 | 18.30 | 17.30 | 9.30 | 12.30 |
+| Welcome | 0.45-13.00 | 2.45 | 18.45 | 17.45 | 9.45 | 12.45 |
 | [Larry Wasserman](#larry-wasserman) - [Problems With Bayesian Causal Inference](#problems-with-bayesian-causal-inference---larry-wasserman)  |       13.00 -13.45 |           3.00|          19.00|         18.00|          10.00|         13.00|
 | [Philip Dawid](#philip-dawid) - [Causal Inference Is Just Bayesian Decision Theory](#causal-inference-is-just-bayesian-decision-theory---philip-dawid) |1.45-2.30|3.45|19.45|18.45|10.45|13.45|
 | [Finnian Lattimore](#finnian-lattimore) - [Causal Inference with Bayes Rule](#causal-inference-with-bayes-rule---finnian-lattimore)| 2.30-3.15|4.30|20.30|19.30|11.30|14.30|
