@@ -16,7 +16,7 @@ layout: section
 | [Cheng Zhang](#cheng-zhang) - [Simultaneous missing value imputation and causal discovery](#vicause-simultaneous-missing-value-imputation-and-causal-discovery---cheng-zhang)| 4.00 | 6.00   |  22.00   |  21.00   |  13.00   |
 | Contributed talk: [Smooth Sequential Optimisation with Delayed Feedback](https://bcirwis2021.github.io/Smooth.pdf) - Srivas Chennu  | 4.45 | 6.45 | 22.45 | 21.45 | 13.45 | 
 | [Bayes in Production Panel](#bayes-in-production-panel) | 5.05 |7.05|23.05|22.05|14.05|
-| [Poster Session](https://bcirwis2021.github.io/accepted.html) |5.50|7.50|22.50|14.50|
+| [Poster Session](https://bcirwis2021.github.io/accepted.html) |5.50|7.50|23.50|22.50|14.50|
 | Contributed talk: [Variational Causal Networks: Approximate Bayesian Inference over Causal Structures](https://bcirwis2021.github.io/Variational.pdf) - Annadani  Yashas |7.30|9.30|1.30 (16 Aug)|00.30 (16 Aug)|16.30|
 | [James McInerney](#james-mcinerney) - [Scalable Thompson Sampling for Non-Conjugate Models](#scalable-thompson-sampling-for-non-conjugate-models---james-mcinerney) |7.50|9.50|1.50 (16 Aug)|00.50 (16 Aug)|16.50|
 
