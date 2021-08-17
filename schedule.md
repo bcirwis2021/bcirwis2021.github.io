@@ -14,7 +14,7 @@ layout: section
 | Srivas Chennu - [Smooth Sequential Optimisation with Delayed Feedback](https://bcirwis2021.github.io/Smooth.pdf)  |  | 
 | [Bayes in Production Panel](#bayes-in-production-panel) | |
 | [Poster Session](https://bcirwis2021.github.io/accepted.html) | |
-| Contributed talk: [Variational Causal Networks: Approximate Bayesian Inference over Causal Structures](https://bcirwis2021.github.io/Variational.pdf) - Annadani  Yashas | |
+| Annadani  Yashas - [Variational Causal Networks: Approximate Bayesian Inference over Causal Structures](https://bcirwis2021.github.io/Variational.pdf)  | |
 | [James McInerney](#james-mcinerney) - [Scalable Thompson Sampling for Non-Conjugate Models](#scalable-thompson-sampling-for-non-conjugate-models---james-mcinerney) | |
 
 
