@@ -5,17 +5,14 @@ layout: section
 <img height="80" src="{{ site.logo }}" class="rounded mx-auto d-block" alt="logo">
 
 
-|Speaker|Monday 16 Aug | Monday 16 Aug | Sunday 15 Aug | Sunday 15 Aug| Sunday 15 Aug |
-|-------|--------------|---------------|---------------|--------------|---------------|
-|       |Singapore     |Sydney         |          Paris|        London|  San Francisco|   
-| Welcome | 0.45 | 2.45 | 18.45 | 17.45 | 9.45 | 
-| [Larry Wasserman](#larry-wasserman) - [Problems With Bayesian Causal Inference](#problems-with-bayesian-causal-inference---larry-wasserman)  |       1.00 |           3.00|          19.00|         18.00|          10.00|   
-| [Philip Dawid](#philip-dawid) - [Causal Inference Is Just Bayesian Decision Theory](#causal-inference-is-just-bayesian-decision-theory---philip-dawid) |1.45|3.45|19.45|18.45|10.45|
-| [Finnian Lattimore](#finnian-lattimore) - [Causal Inference with Bayes Rule](#causal-inference-with-bayes-rule---finnian-lattimore)| 2.30|4.30|20.30|19.30|11.30|
-| [Theory Panel](#theory-panel) | 3.15|5.15    |  21.15   |  20.15   |  12.15   |
-| [Cheng Zhang](#cheng-zhang) - [Simultaneous missing value imputation and causal discovery](#vicause-simultaneous-missing-value-imputation-and-causal-discovery---cheng-zhang)| 4.00 | 6.00   |  22.00   |  21.00   |  13.00   |
-| Contributed talk: [Smooth Sequential Optimisation with Delayed Feedback](https://bcirwis2021.github.io/Smooth.pdf) - Srivas Chennu  | 4.45 | 6.45 | 22.45 | 21.45 | 13.45 | 
-| [Bayes in Production Panel](#bayes-in-production-panel) | 5.05 |7.05|23.05|22.05|14.05|
+|Speaker|Video|
+|-------|--------------|
+| [Larry Wasserman](#larry-wasserman) - [Problems With Bayesian Causal Inference](#problems-with-bayesian-causal-inference---larry-wasserman)  |        | 
+| [Philip Dawid](#philip-dawid) - [Causal Inference Is Just Bayesian Decision Theory](#causal-inference-is-just-bayesian-decision-theory---philip-dawid) | |
+| [Finnian Lattimore](#finnian-lattimore) - [Causal Inference with Bayes Rule](#causal-inference-with-bayes-rule---finnian-lattimore)|  |
+| [Cheng Zhang](#cheng-zhang) - [Simultaneous missing value imputation and causal discovery](#vicause-simultaneous-missing-value-imputation-and-causal-discovery---cheng-zhang)| |
+| Srivas Chennu - [Smooth Sequential Optimisation with Delayed Feedback](https://bcirwis2021.github.io/Smooth.pdf)  |  | 
+| [Bayes in Production Panel](#bayes-in-production-panel) | |
 | [Poster Session](https://bcirwis2021.github.io/accepted.html) |5.50|7.50|23.50|22.50|14.50|
 | Contributed talk: [Variational Causal Networks: Approximate Bayesian Inference over Causal Structures](https://bcirwis2021.github.io/Variational.pdf) - Annadani  Yashas |7.30|9.30|1.30 (16 Aug)|00.30 (16 Aug)|16.30|
 | [James McInerney](#james-mcinerney) - [Scalable Thompson Sampling for Non-Conjugate Models](#scalable-thompson-sampling-for-non-conjugate-models---james-mcinerney) |7.50|9.50|1.50 (16 Aug)|00.50 (16 Aug)|16.50|
