@@ -15,7 +15,7 @@ layout: section
 | Srivas Chennu | [Smooth Sequential Optimisation with Delayed Feedback](https://www.youtube.com/watch?v=BCI4cM64hlE) | 
 | Panel| [Is Bayesian inference suitable in production?](https://www.youtube.com/watch?v=MW8liCtbEmc) |
 | Annadani  Yashas | [Variational Causal Networks: Approximate Bayesian Inference over Causal Structures](https://www.youtube.com/watch?v=8i28DzYrdZU) |
-| [James McInerney](#james-mcinerney)  | [Scalable Thompson Sampling for Non-Conjugate Models]() |
+| [James McInerney](#james-mcinerney)  | [Scalable Thompson Sampling for Non-Conjugate Models](https://www.youtube.com/watch?v=v2OHETgVEw4) |
 
 
 
