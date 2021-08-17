@@ -13,9 +13,9 @@ layout: section
 | [Cheng Zhang](#cheng-zhang) - [Simultaneous missing value imputation and causal discovery](#vicause-simultaneous-missing-value-imputation-and-causal-discovery---cheng-zhang)| |
 | Srivas Chennu - [Smooth Sequential Optimisation with Delayed Feedback](https://bcirwis2021.github.io/Smooth.pdf)  |  | 
 | [Bayes in Production Panel](#bayes-in-production-panel) | |
-| [Poster Session](https://bcirwis2021.github.io/accepted.html) |5.50|7.50|23.50|22.50|14.50|
-| Contributed talk: [Variational Causal Networks: Approximate Bayesian Inference over Causal Structures](https://bcirwis2021.github.io/Variational.pdf) - Annadani  Yashas |7.30|9.30|1.30 (16 Aug)|00.30 (16 Aug)|16.30|
-| [James McInerney](#james-mcinerney) - [Scalable Thompson Sampling for Non-Conjugate Models](#scalable-thompson-sampling-for-non-conjugate-models---james-mcinerney) |7.50|9.50|1.50 (16 Aug)|00.50 (16 Aug)|16.50|
+| [Poster Session](https://bcirwis2021.github.io/accepted.html) | |
+| Contributed talk: [Variational Causal Networks: Approximate Bayesian Inference over Causal Structures](https://bcirwis2021.github.io/Variational.pdf) - Annadani  Yashas | |
+| [James McInerney](#james-mcinerney) - [Scalable Thompson Sampling for Non-Conjugate Models](#scalable-thompson-sampling-for-non-conjugate-models---james-mcinerney) | |
 
 
 # Theory Panel
