@@ -5,15 +5,15 @@ layout: section
 <img height="80" src="{{ site.logo }}" class="rounded mx-auto d-block" alt="logo">
 
 
-|Speaker|Talk|
+|Speaker|Video/Audio|
 |-------|--------------|
 | [Larry Wasserman](#larry-wasserman)  |   [Problems With Bayesian Causal Inference](https://www.youtube.com/watch?v=sZyyaNdvfto)     | 
 | [Philip Dawid](#philip-dawid) | [Causal Inference Is Just Bayesian Decision Theory](https://www.youtube.com/watch?v=F_nOhX-Vn1U) |
 | [Finnian Lattimore](#finnian-lattimore)| [Causal Inference with Bayes Rule](https://www.youtube.com/watch?v=VoJWIKEF4x8) |
-| Panel |[Does causality mean we need to go beyond Bayesian decision theory?](https://www.youtube.com/watch?v=Vehb4pYf2L4) |
+| Panel (Audio) |[Does causality mean we need to go beyond Bayesian decision theory?](https://www.youtube.com/watch?v=Vehb4pYf2L4) |
 | [Cheng Zhang](#cheng-zhang) |[Efficient Decision Making with (Causal) Bayesian Deep Learning](https://www.youtube.com/watch?v=w1PvAgkdzKE) |
 | Srivas Chennu | [Smooth Sequential Optimisation with Delayed Feedback](https://www.youtube.com/watch?v=BCI4cM64hlE) | 
-| Panel| [Is Bayesian inference suitable in production?](https://www.youtube.com/watch?v=MW8liCtbEmc) |
+| Panel (Audio)| [Is Bayesian inference suitable in production?](https://www.youtube.com/watch?v=MW8liCtbEmc) |
 | Annadani  Yashas | [Variational Causal Networks: Approximate Bayesian Inference over Causal Structures](https://www.youtube.com/watch?v=8i28DzYrdZU) |
 | [James McInerney](#james-mcinerney)  | [Scalable Thompson Sampling for Non-Conjugate Models](https://www.youtube.com/watch?v=qhODJHp0KYM) |
 
