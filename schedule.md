@@ -7,15 +7,15 @@ layout: section
 
 |Speaker|Video|
 |-------|--------------|
-| [Larry Wasserman](#larry-wasserman) - [Problems With Bayesian Causal Inference](#problems-with-bayesian-causal-inference---larry-wasserman)  |        | 
-| [Philip Dawid](#philip-dawid) - [Causal Inference Is Just Bayesian Decision Theory](#causal-inference-is-just-bayesian-decision-theory---philip-dawid) | |
-| [Finnian Lattimore](#finnian-lattimore) - [Causal Inference with Bayes Rule](#causal-inference-with-bayes-rule---finnian-lattimore)|  |
-| [Cheng Zhang](#cheng-zhang) - [Simultaneous missing value imputation and causal discovery](#vicause-simultaneous-missing-value-imputation-and-causal-discovery---cheng-zhang)| |
-| Srivas Chennu - [Smooth Sequential Optimisation with Delayed Feedback](https://bcirwis2021.github.io/Smooth.pdf)  |  | 
-| [Bayes in Production Panel](#bayes-in-production-panel) | |
-| [Poster Session](https://bcirwis2021.github.io/accepted.html) | |
-| Annadani  Yashas - [Variational Causal Networks: Approximate Bayesian Inference over Causal Structures](https://bcirwis2021.github.io/Variational.pdf)  | |
-| [James McInerney](#james-mcinerney) - [Scalable Thompson Sampling for Non-Conjugate Models](#scalable-thompson-sampling-for-non-conjugate-models---james-mcinerney) | |
+| [Larry Wasserman](#larry-wasserman) - [Problems With Bayesian Causal Inference](#problems-with-bayesian-causal-inference---larry-wasserman)  |   [Video]()     | 
+| [Philip Dawid](#philip-dawid) - [Causal Inference Is Just Bayesian Decision Theory](#causal-inference-is-just-bayesian-decision-theory---philip-dawid) | [Video]() |
+| [Finnian Lattimore](#finnian-lattimore) - [Causal Inference with Bayes Rule](#causal-inference-with-bayes-rule---finnian-lattimore)| [Video]() |
+| [Cheng Zhang](#cheng-zhang) - [Simultaneous missing value imputation and causal discovery](#vicause-simultaneous-missing-value-imputation-and-causal-discovery---cheng-zhang)|[Video]() |
+| Srivas Chennu - [Smooth Sequential Optimisation with Delayed Feedback](https://bcirwis2021.github.io/Smooth.pdf)  | [Video]() | 
+| [Bayes in Production Panel](#bayes-in-production-panel) | [Video]() |
+| [Poster Session](https://bcirwis2021.github.io/accepted.html) | [Video]() |
+| Annadani  Yashas - [Variational Causal Networks: Approximate Bayesian Inference over Causal Structures](https://bcirwis2021.github.io/Variational.pdf)  | [Video]() |
+| [James McInerney](#james-mcinerney) - [Scalable Thompson Sampling for Non-Conjugate Models](#scalable-thompson-sampling-for-non-conjugate-models---james-mcinerney) | [Video]() |
 
 
 # Theory Panel
